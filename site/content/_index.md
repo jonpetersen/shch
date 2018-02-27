@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "West Surrey Cycle Hire"
+subtitle: Cycle Tours and Cycle Hire in the beautiful Surrey Hills AONB
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What we offer?
+    text: "We offer guided Electric Mountain Bike Tours and bike hire in the Surrey Hills centred on the village of Hambledon. For hire we offer, good quality hybrid, road and mountan bikes."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Why here?"
+    text: "Hambledon and its surroundings offer a fantastic range of cycilng on quiet country roads and off road tracks and bridleways, while being only 55 minutes by train from central London"
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
