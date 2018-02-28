@@ -8,13 +8,13 @@ blurb:
 intro:
     heading: "Why here?"
     text: "Hambledon and its surroundings offer a fantastic range of cycling on quiet country roads and off road tracks and bridleways, while being only 55 minutes by train from central London"
-products:
+hire:
     - image: img/illustrations-coffee.svg
       text: "Our bikes are great."
     - image: /img/illustrations-coffee-gear.svg
       text: "We do tours."
-values:
-    heading: About
+tours:
+    heading: Tours
     text: We're nice.
 ---
 

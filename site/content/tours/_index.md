@@ -1,0 +1,45 @@
+---
+title: Electric Bike Tours
+image: /img/home-jumbotron.jpg
+heading: What we offer
+intro:
+  heading: What we offer
+  description: >
+    All our guided tours start and finish at The Merry Harriers pub in the village of Hambledon, Surrey. We stay off-road as much as possible, using the extensive local network of bridleways and tracks.
+main:
+  heading: Fly up the hills
+  description: >
+    The area we'll be cycling in is hilly, but our fleet of electric mountain bikes means you'll get up even the steepest ascent without a sweat (unless you want to sweat, the amount of work you let the engine do is up to you).
+  image1:
+    alt: Electric Bike
+    image: /img/134111_light.jpg
+pricing:
+  heading: The Tours
+  description: >-
+    We offer a number of different electric bike tours.
+pricing:
+  heading: The Tours
+  description: >-
+    We offer a number of different electric bike tours. Our Morning and Evening tours start and finish at The Merry Harriers pub. The Picnic tours can star and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person.
+  plans:
+    - description: Leaves the pub at 10am returning at 1.30pm for a pub lunch
+      items:
+        - 3.5 hours (around 20 miles) of mostly off-road cycling
+        - A coffee break
+        - Lunch at The Merry Harriers
+      plan: Morning Tour
+      price: '70'
+    - description: Leaves the pub at 4pm returning at 19:30
+      items:
+        - 3.5 hours (around 20 miles) of mostly off-road cycling
+        - A pub or tea shop stop
+      plan: Evening Tour
+      price: '50'
+    - description: Starts at 11am returning at 3:30pm
+      items:
+        - 3.5 hours (around 20 miles) of mostly off-road cycling
+        - A luxury picnic
+      plan: Picnic Tour
+      price: '70'
+---
+

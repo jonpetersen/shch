@@ -4,24 +4,32 @@
     
     /* background behind the logo*/
 #header {
-    background: <color>;
-    border-color: <color>;
+    background: rgba(89, 64, 50, 0.85);;
+    border-color: rgba(89, 64, 50, 0.85);;
 }
 
 /* Background color of the menu */
 #sidebar {
-  background-color: <color>;
+  background-color: rgba(89, 64, 50, 0.85);;
 }
 
 /* Background color of the menu, when clicked */
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
-  background-color: <color>;
+  background-color: rgba(89, 64, 50, 0.85);;
 }
 
 /* Color of all links, including arrows to get to previous and next pages */
 a {
-    color: <color>;
+    color: rgba(89, 64, 50, 0.85);;
 }
 a:hover {
-   color: <color>;
+   color: rgba(89, 64, 50, 0.85);;
+}
+
+.bg-black {
+    color: rgba(89, 64, 50, 0.85);
+}
+
+.bg-primary {
+    background-color: rgba(89, 64, 50, 0.85);
 }
