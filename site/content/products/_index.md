@@ -1,15 +1,16 @@
 ---
 title: Our Bikes
-type: bikes
-image: /img/products-jumbotron.jpg
+image: /img/home-jumbotron.jpg
 heading: What we offer
 description: >-
-  All our bikes are less than a year old and are maintained to the highest standards.
+  All our bikes are less than a year old and are maintained to the highest
+  standards.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Our electric mountain bikes are Cube Raaction Hybrid models, featuring Bosch CX electric engines and 500w batteries.
+        Our electric mountain bikes are Cube Raaction Hybrid models, featuring
+        Bosch CX electric engines and 500w batteries.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -32,7 +33,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    All our bikes are less than a year old and are maintained to the highest standards. We have hybrid, mountain and road bikes.
+    All our bikes are less than a year old and are maintained to the highest
+    standards. We have hybrid, mountain and road bikes.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -88,5 +90,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
