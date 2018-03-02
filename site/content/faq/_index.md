@@ -1,7 +1,6 @@
 ---
-title: "West Surrey Cycle Hire"
-subtitle: Cycle Tours and Cycle Hire in the beautiful Surrey Hills
-image: /img/home-jumbotron.jpg
+title: "FAQ's"
+image: /img/photos/llama_field.jpg
 question1:
     heading: 1. Can I join a tour on my own bike?
     text: "No."

@@ -4,6 +4,7 @@
 
 {{ partial "4-up" .Params.intro }}
 
+{{ partial "short-text" .Params.blurb}}
 
 {{ with .Params.main }}
 <div class="mw7 center">
@@ -14,19 +15,21 @@
 </div>
 
 <!-- Image grid -->
-{{ partial "image-grid" . }}
+{{ partial "image-grid1" . }}
 {{ end }}
 
+<!--
 <div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
 </div>
+-->
 
 <!-- Full-width image -->
 <!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
 
-{{ partial "table" .Params.pricing }}
+{{ partial "table-tours" .Params.pricing }}
 
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/bicycle_logo_960_720.png"
+logo: "/img/wsch_logo_text6.svg"
 contact_entries:
   - heading: Location
     text: "Pear Tree Cottage, Beech Hill, Hambledon, Surrey GU8 4HL"
