@@ -1,7 +1,7 @@
 ---
 title: "West Surrey Cycle Hire"
 subtitle: Cycle Tours and Cycle Hire in the beautiful Surrey Hills
-image: /img/photos/rape_field.jpg
+image: /img/photos/llama_field.jpg
 
 blurb:
     heading: What we offer

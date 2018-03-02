@@ -1,6 +1,6 @@
 ---
 title: "FAQ's"
-image: /img/photos/llama_field.jpg
+image: /img/photos/rape_field.jpg
 question1:
     heading: 1. Can I join a tour on my own bike?
     text: "No."
