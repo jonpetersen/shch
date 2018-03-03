@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+googleAnalytics = "UA-115002141-1"
 
 [blackfriday]
   extensions = ["hardLineBreak"]
