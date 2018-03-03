@@ -2,11 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "short-text-lead" .Params.lead}}
+
 {{ partial "short-text" .Params.blurb}}
+{{ partial "short-text" .Params.intro}}
 
 <!-- {{ partial "short-text" .Params.blurb2}} -->
-
-{{ partial "2-up" .Params }}
 
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
