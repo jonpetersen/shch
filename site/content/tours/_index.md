@@ -5,9 +5,9 @@ heading: What we offer
 intro:
   heading: Format
   description: >
-    All our guided tours start and finish either at The Merry Harriers pub in the village of Hambledon, Surrey, or at your chosen location in the vicinity. We stay off-road as much as possible, using the extensive local network of bridleways and tracks. The tours last up to 4 hours and we'll cover between 20 and 35 miles. Along the way we'll visit some of the local sites of interest and have a refreshment stop. The maximum group size is 6.
+    Our guided tours start and finish either at **[The Merry Harriers](https://www.merryharriers.com)** pub in the village of Hambledon, Surrey, or at your chosen location in the vicinity. We stay off-road as much as possible, using the extensive local network of bridleways and tracks. The tours last up to 4 hours and we'll cover between 20 and 35 miles. Along the way we'll visit some of the local sites of interest and have a refreshment stop. The maximum group size is 6.
 blurb:
-    heading: 'The Bikes'
+    heading: The Bikes
     text: "Our electric mountain bikes are the latest models of the Cube Reaction Hybrid, with the highest spec Bosch CX engines and 500w batteries. They have a battery assisted range of between 30 miles (48km) and 60 miles (97km), depending on how they are ridden, the weight of the rider and the type of terrain they are used on."
 main:
   heading: Fly up the hills

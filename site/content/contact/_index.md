@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+image: /img/photos/map.jpg
 logo: "/img/shch_logo_text.svg"
 contact_entries:
   - heading: Location
