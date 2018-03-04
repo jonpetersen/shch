@@ -29,7 +29,7 @@ pricing:
   plans:
     - description: Cube Reaction Hybrid
       items:
-        - 'Range depends on use (see below)'
+        - 'Distance Range depends on use (see below)'
         - Suitable for all the local terrain
         - Flat pedals
       plan: Electric Mountain Bike
@@ -44,20 +44,20 @@ pricing:
       price2: '38'
     - description: Islabikes Beinn 29
       items:
-        - 3.5 hours (around 25 miles) of mostly off-road cycling
+        - Suitable for road use and most tracks and bridleways
         - Flat pedals
       plan: Hybrid Bike
       price1: '25'
       price2: '38'
     - description: Triban 540
       items:
-        - 3.5 hours (around 25 miles) of mostly off-road cycling
+        - Road use only
         - SPD Pedals (or alternative on request)
       plan: Road Bike
       price1: '25'
       price2: '38'
 blurb:
-    heading1: 'Electric Bike range'
+    heading1: 'Electric Bike distance range'
     text1: "Our electric mountain bikes have a battery assisted range of between 30 miles (48km) and 60 miles (97km), depending on how they are ridden, the weight of the rider and the type of terrain they are used on. The bike can still be ridden once the battery has depleted, but this is unlikely to happen unless it has been used permanently in turbo mode (the top mode of the four available)."
     heading2: 'Looking after the bike'
     text2: "Your responsibility is to treat the bike as if it were yours. We will provide you with a lock and ask that you make sure it is always securely locked up when ‘parking’ the bike."
