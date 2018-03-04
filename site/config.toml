@@ -1,7 +1,8 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Homepage"
 googleAnalytics = "UA-115002141-1"
-
+[params]
+  googlefonts = "//fonts.googleapis.com/css?family=Bitter|Source+Sans+Pro|Merriweather|Fira+Mono|Droid+Sans|Nunito+Sans:400,700"
 [blackfriday]
   extensions = ["hardLineBreak"]

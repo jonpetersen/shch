@@ -2,9 +2,18 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "question" .Params.question1}}
+{{ partial "short-text-lead" .Params.head1}}
 
+{{ partial "question" .Params.question1}}
 {{ partial "question" .Params.question2}}
+{{ partial "question" .Params.question3}}
+{{ partial "question" .Params.question4}}
+{{ partial "question" .Params.question5}}
+{{ partial "question" .Params.question6}}
+
+{{ partial "short-text-lead" .Params.head2}}
+
+{{ partial "question" .Params.question7}}
 
 <!-- {{ partial "2-up" .Params }} -->
 
