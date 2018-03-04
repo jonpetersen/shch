@@ -1,6 +1,7 @@
 :root {
 	/* Colors */
 	--primary: #16A05D;
+	--primary-opaque: #16A05DB3; /* B3 is 70% opacity, 50% is 80 */
 	--highlight: rgba(254, 213, 198, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
@@ -36,6 +37,20 @@
 	--hover-transition: all 150ms ease;
 }
 
+.bg-primary-heading {
+    background-color: var(--primary-opaque);
+}
+
+.bg-fix-primary-heading {
+    padding: 0 var(--spacing-small);
+    & :first-child {
+	   box-shadow: var(--spacing-small) 0 0 var(--primary-opaque), -var(--spacing-small) 0 0 var(--primary-opaque);
+	   background-color: var(--primary-opaque);
+  }
+}
+
+
+/*
 p {
    font-family: "Nunito Sans";
 }
@@ -45,5 +60,17 @@ h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
 a {
    font-family: "Droid Sans";
 }
+*/
 
+/* Eczar + Work Sans */
+
+p {
+   font-family: "Work Sans";
+}
+h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
+   font-family: "Eczar";
+}
+a {
+   font-family: "Eczar";
+}
 
