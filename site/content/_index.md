@@ -7,7 +7,7 @@ lead:
     text: "Our 2018 season runs from Saturday 24th March to Sunday 28th October."
 blurb:
     heading: What we offer
-    text: "We offer bike hire and guided Electric Mountain Bike Tours in the Surrey Hills centred on the beautiful village of Hambledon. We have electric mountain bikes, road bikes, hybrids and traditional mountain bikes, available in a range of sizes. All our bikes are less than a year old and are regularly serviced. Our 2018 season is Saturday 24th March to Sunday 28th October."
+    text: "We offer bike hire and guided Electric Mountain Bike Tours in the Surrey Hills centred on the beautiful village of Hambledon. We have electric mountain bikes, road bikes, hybrids and traditional mountain bikes, available in a range of sizes. All our bikes are less than a year old and are regularly serviced."
 intro:
     heading: "Why here?"
     text: "Hambledon and its' surroundings offer a fantastic range of cycling on quiet country roads and off-road tracks and bridleways, while being only 55 minutes by train from central London."
