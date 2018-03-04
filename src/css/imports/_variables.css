@@ -64,6 +64,7 @@ a {
 
 /* Eczar + Work Sans */
 
+/*
 p {
    font-family: "Work Sans";
 }
@@ -73,4 +74,58 @@ h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
 a {
    font-family: "Eczar";
 }
+*/
 
+/* Archivo Black + Tenor */
+
+/*
+p {
+   font-family: "Tenor";
+}
+h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
+   font-family: "Archivo Black";
+}
+a {
+   font-family: "Archivo Black";
+}
+*/
+
+/* Rubik + Nunito Sans ********* */
+
+/*
+p {
+   font-family: "Nunito Sans";
+}
+h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
+   font-family: "Rubik";
+}
+a {
+   font-family: "Rubik";
+}
+*/
+
+/* Cardo + Pathway Gothic One */
+
+/*
+p {
+   font-family: "Nunito Sans";
+}
+h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
+   font-family: "Cardo";
+}
+a {
+   font-family: "Cardo";
+}
+*/
+
+/* Asul + Chivo */
+
+p {
+   font-family: "Chivo";
+}
+h1, h2, h3, h4, h5, h6, .f1, .f2, .f3, .f4, .f5, .f6, .f7, .f8 {
+   font-family: "Asul";
+}
+a {
+   font-family: "Asul";
+}

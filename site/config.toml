@@ -3,6 +3,6 @@ languageCode = "en-gb"
 title = "Homepage"
 googleAnalytics = "UA-115002141-1"
 [params]
-  googlefonts = "//fonts.googleapis.com/css?family=Eczar|Work+Sans|Merriweather|Fira+Mono|Droid+Sans|Nunito+Sans:400,700"
+  googlefonts = "//fonts.googleapis.com/css?family=Asul|Chivo|Cardo|Pathway+Gothic+One|Rubik|Roboto+Mono|Tenor|Archivo+Black|Eczar|Work+Sans|Merriweather|Fira+Mono|Droid+Sans|Nunito+Sans:400,700"
 [blackfriday]
   extensions = ["hardLineBreak"]
