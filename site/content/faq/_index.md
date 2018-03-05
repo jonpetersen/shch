@@ -26,5 +26,8 @@ head2:
 question7:
     heading: 1. Do you deliver and pick-up bikes for hire?
     text: "Given sufficient notice we can deliver and pick-up within a 6 mile (10km) radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes."
+question8:
+    heading: 2. What is provided with a hire bike?
+    text: "We'll provide you with a helmet, a lock, a route map and a number to call in case of problems."
 ---
 
