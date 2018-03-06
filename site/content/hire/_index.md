@@ -13,15 +13,15 @@ intro:
         Bosch CX electric engines and 500w batteries.
     - image: /img/bizango.jpeg
       text: |
-        Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This model won Mountain Bike Rider's Hardtail of the Year award.
+        Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won Mountain Bike Rider's Hardtail of the Year award.
     - image: /img/beinn29.png
       text: Our Hybrid Bikes are the Islabikes Beinn 29. Lightweight aluminium frame, super wide range 10-speed gears make climbing a breeze and disc brakes. Suitable for light off-road use.
     - image: /img/triban540.jpg
-      text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. Cycling Weekly's Editor's Choice Road Bike in 2017.
+      text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was Cycling Weekly's Editor's Choice Road Bike in 2017.
 main:
   heading: Everything you need
   description: >
-    We'll provide you with everything you need on your ride. A helmet, a lock, route maps and a number to call just in case.
+    We'll provide you with everything you need on your ride. A helmet, a lock, a filled water bottle, route maps and a number to call just in case.
 pricing:
   heading: Hiring Rates
   description: >-
