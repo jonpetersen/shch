@@ -12,26 +12,26 @@ blurb:
 main:
   heading: Fly up the hills
   description: >
-    The area we'll be cycling in is hilly, but on an electric mountain bikes you'll get up even the steepest ascent without a sweat (unless you want to sweat, the amount of work you let the engine do is up to you). Electric bikes are a great way to allow a group of people with differing fitness levels to cycle together.
+    The area we'll be cycling in is hilly, but on an electric mountain bike you'll get up even the steepest ascent without a sweat (unless you want to sweat, the amount of work you let the engine do is up to you). Electric bikes are a great way to allow a group of people with differing fitness levels to cycle together.
   image1:
     alt: Electric Bike
     image: /img/134111_light.jpg
 pricing:
   heading: The Tours
   description: >-
-    We offer a number of different electric bike tours. Our Morning and Evening tours start and finish at The Merry Harriers pub. The Picnic tours can star and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person.
+    We offer a number of different electric bike tours. Our Morning and Evening tours start and finish at The Merry Harriers pub. The Picnic tours can start and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person.
   plans:
     - description: Leaves the pub at 10am returning at 1.30pm for a pub lunch
       items:
         - 3.5 hours (around 25 miles) of mostly off-road cycling
-        - A coffee break
+        - A coffee break (not included)
         - Lunch at The Merry Harriers (included)
       plan: Morning Tour
       price: '70'
     - description: Leaves the pub at 4pm returning at 7:30pm
       items:
         - 3.5 hours (around 25 miles) of mostly off-road cycling
-        - A pub or tea shop stop
+        - A pub or tea shop stop (not included)
       plan: Evening Tour
       price: '50'
     - description: Starts at 11am returning at 3:30pm
@@ -40,5 +40,8 @@ pricing:
         - A luxury picnic (included)
       plan: Picnic Tour
       price: '70'
+blurb2:
+    heading: Custom Tours / Corporate Events
+    text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery."
 ---
 
