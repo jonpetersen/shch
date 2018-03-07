@@ -14,7 +14,7 @@ contact_entries:
 Witley Station is approximately 1 mile from Hambledon and is 55 minutes from London Waterloo. By arrangement we can pick you up at the station free of charge.
 
 <h6 class="f5 b">Driving:</h6>
-Hambledon is 10 minutes from the A3. For GPS directions use the postcode GU8 4HL, if follwing GPS directions for Hambledon, make sure they are for Hambledon, Surrey NOT Hambledon, Hampshire.
+Hambledon is 10 minutes from the A3. For GPS directions use the postcode GU8 4HL, if following GPS directions for Hambledon, make sure they are for Hambledon, Surrey NOT Hambledon, Hampshire.
 
 <p><a style="font-family: Chivo;" href="https://www.google.co.uk/maps/dir//GU8+4HL,+Hambledon,+Godalming/@51.1375047,-0.6208067,18z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x4875ce585d00cda7:0x9ab25b8f518c89b4!2m2!1d-0.6197124!2d51.1375047!3e1!5m1!1e4">Click here for directions in Google Maps.</a></p>
 
