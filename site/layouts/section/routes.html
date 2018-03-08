@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+{{ partial "4-up" .Params.intro }}
+
+{{ with .Params.main }}
+
+<div class="mw7 center">
+  <div class="mw6 ph3 mb3">
+    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+    <p>{{ .description }}</p>
+  </div>
+</div>
+
+{{ end }}
+
+<div style="overflow:hidden;">
+    <iframe style="display:block; margin: auto;" name="plotaroute_map_572987" src="https://www.plotaroute.com/embedmap/572987" frameborder="0" scrolling="no" width="100%" height="500" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p style="margin-top:8px;font-family:Helvetica Neue,Helvetica,arial;font-size:11px;">Route map for <a href="https://www.plotaroute.com/route/572987" target="_blank" title="View this route map on plotaroute.com">Dunsfold-Tugley_Wood-Sidney_Wood-Hascombe-Hurtwood</a></div>
+    
+{{ end }}
