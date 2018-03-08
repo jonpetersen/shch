@@ -2,13 +2,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
+{{ partial "4-up-small" .Params.intro1 }}
 
 {{ with .Params.main }}
 
 <div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+  <div class="mw6 ph3">
+    <h1 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
   </div>
 </div>
@@ -16,7 +16,24 @@
 {{ end }}
 
 <div style="overflow:hidden;">
-    <iframe style="display:block; margin: auto;" name="plotaroute_map_572987" src="https://www.plotaroute.com/embedmap/572987" frameborder="0" scrolling="no" width="100%" height="500" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-    <p style="margin-top:8px;font-family:Helvetica Neue,Helvetica,arial;font-size:11px;">Route map for <a href="https://www.plotaroute.com/route/572987" target="_blank" title="View this route map on plotaroute.com">Dunsfold-Tugley_Wood-Sidney_Wood-Hascombe-Hurtwood</a></div>
+    <iframe style="display:block; margin: auto; max-width:700px;" name="plotaroute_map_572987" src="https://www.plotaroute.com/embedmap/572987" frameborder="0" scrolling="no" width="100%" max-width="700" height="500" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p style="margin: auto; margin-top:8px;font-family:Helvetica Neue,Helvetica,arial;font-size:11px;">Route map for <a href="https://www.plotaroute.com/route/572987" target="_blank" title="View this route map on plotaroute.com">Dunsfold-Tugley_Wood-Sidney_Wood-Hascombe-Hurtwood</a></div>
+ 
+{{ partial "4-up-small" .Params.intro2 }}
+
+{{ with .Params.main }}
+
+<div class="mw7 center">
+  <div class="mw6 ph3">
+    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+    <p>{{ .description }}</p>
+  </div>
+</div>
+
+{{ end }}
+    
+<div style="overflow:hidden;">
+    <iframe style="display:block; margin: auto; max-width:700px;" name="plotaroute_map_573101" src="https://www.plotaroute.com/embedmap/573101" frameborder="0" scrolling="no" width="100%" max-width="700" height="500" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p style="margin: auto; margin-top:8px;font-family:Helvetica Neue,Helvetica,arial;font-size:11px;">Route map for <a href="https://www.plotaroute.com/route/573101" target="_blank" title="View this route map on plotaroute.com">Chidd-bdown-lurgashall-shillinglee-uppervann</a></div>    
     
 {{ end }}
