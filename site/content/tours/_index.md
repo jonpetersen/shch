@@ -45,7 +45,7 @@ pricing:
         - 1.5 hours (around 8 miles) of mostly off-road cycling
         - Every Thursday evening from 3rd week in April to the last week in August (or by arrangement)
       plan: Short Tour
-      price: '25'
+      price: '30'
 blurb2:
     heading: Custom Tours / Corporate Events
     text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery."
