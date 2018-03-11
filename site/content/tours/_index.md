@@ -19,7 +19,7 @@ main:
 pricing:
   heading: The Tours
   description: >-
-    We offer a number of different electric bike tours. Our Morning and Evening tours start and finish at The Merry Harriers pub. The Picnic tours can start and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person.
+    We offer a number of different electric bike tours. Our Morning and Evening and Short tours start and finish at The Merry Harriers pub. The Picnic tours can start and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person. Bookings are essential for all tours.
   plans:
     - description: Leaves the pub at 10am returning at 1.30pm for a pub lunch
       items:
@@ -40,6 +40,12 @@ pricing:
         - A luxury picnic (included)
       plan: Picnic Tour
       price: '70'
+    - description: Leaves the pub at 6.30pm returning at 8:00pm
+      items:
+        - 1.5 hours (around 8 miles) of mostly off-road cycling
+        - Every Thursday evening from 3rd week in April to the last week in August (or by arrangement)
+      plan: Short Tour
+      price: '25'
 blurb2:
     heading: Custom Tours / Corporate Events
     text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery."
