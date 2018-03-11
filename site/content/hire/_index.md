@@ -25,37 +25,43 @@ main:
 pricing:
   heading: Hiring Rates
   description: >-
-    Bikes can be hired for half days (4 hours) or full days.
+    Bikes can be hired for 2 hours, half a day (4 hours) or a full day.
   plans:
     - description: Cube Reaction Hybrid
       items:
         - 'Distance Range depends on use (see below)'
         - Suitable for all the local terrain
+        - Rear suspension
         - Flat pedals
       plan: Electric Mountain Bike
-      price1: '40'
-      price2: '50'
+      price1: '25'
+      price2: '40'
+      price3: '50'
     - description: Voodoo Bizango 29er
       items:
         - Suitable for all the local terrain
+        - Rear suspension
         - Flat pedals (or SPD on request)
-      plan: Hard Tail Mountain Bike
-      price1: '25'
-      price2: '38'
+      plan: Mountain Bike
+      price1: '15'
+      price2: '25'
+      price3: '38'
     - description: Islabikes Beinn 29
       items:
         - Suitable for road use and most tracks and bridleways
         - Flat pedals
       plan: Hybrid Bike
-      price1: '25'
-      price2: '38'
+      price1: '15'
+      price2: '25'
+      price3: '38'
     - description: Triban 540
       items:
         - Road use only
         - SPD Pedals (or alternative on request)
       plan: Road Bike
-      price1: '25'
-      price2: '38'
+      price1: '15'
+      price2: '25'
+      price3: '38'
 blurb:
     heading1: 'Electric Bike distance range'
     text1: "Our electric mountain bikes have a battery assisted range of between 30 miles (48km) and 60 miles (97km), depending on how they are ridden, the weight of the rider and the type of terrain they are used on. The bike can still be ridden once the battery has depleted, but this is unlikely to happen unless it has been used permanently in turbo mode (the top mode of the four available)."
