@@ -67,5 +67,7 @@ blurb:
     text1: "Our electric mountain bikes have a battery assisted range of between 30 miles (48km) and 60 miles (97km), depending on how they are ridden, the weight of the rider and the type of terrain they are used on. The bike can still be ridden once the battery has depleted, but this is unlikely to happen unless it has been used permanently in turbo mode (the top mode of the four available)."
     heading2: 'Looking after the bike'
     text2: "Your responsibility is to treat the bike as if it were yours. We will provide you with a lock and ask that you make sure it is always securely locked up when ‘parking’ the bike."
+    heading3: 'Hire Bike User Agreement'
+    text3: Our Hire Bike User Agreement and Terms and Conditions can be **[downloaded here](../shch_terms_of_booking.pdf)**. 
 ---
 
