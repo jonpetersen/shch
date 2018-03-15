@@ -16,7 +16,7 @@ intro3:
 intro4:
   heading: Hybrid Bike Route 1 - Bowlhead Green, Thursley Common, Witley Common and Busses Common (2 to 2.5 hours)
   description: >
-    This route of around 15 miles (24km) starts on quiet paths and roads to Bowlhead Green. Then follows bridleways around Thursley National Nature Reserve. From there the route crosse over into Witley Common and returns to Hambledon via Busses Common. Around 70% of the route is off-road and the total ascent is 363m.
+    This route of around 15 miles (24km) starts on quiet paths and roads to Bowlhead Green. Then follows bridleways around Thursley National Nature Reserve. From there the route crosses over into Witley Common and returns to Hambledon via Busses Common. Around 70% of the route is off-road and the total ascent is 363m.
 
 
 ---
