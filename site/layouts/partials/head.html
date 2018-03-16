@@ -34,7 +34,8 @@
     <meta name="geo.position" content="51.137273, -0.620589">
     
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script src="/js/structured_data.js" type="application/ld+json"></script>
+<!--     <script src="/js/structured_data.js" type="application/ld+json"></script> -->
+    <link href="/js/structured_data.js" rel="alternate" type="application/ld+json" />
     
     {{ if ne (printf "%v" $.Site.BaseURL) "http://localhost:3000/" }}    
     {{ template "_internal/google_analytics.html" . }}
