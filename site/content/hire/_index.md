@@ -40,7 +40,7 @@ pricing:
     - description: Voodoo Bizango 29er
       items:
         - Suitable for all the local terrain
-        - Rear suspension
+        - Front suspension
         - Flat pedals (or SPD on request)
       plan: Mountain Bike
       price1: '15'
