@@ -31,7 +31,7 @@ pricing:
       items:
         - 'Distance Range depends on use (see below)'
         - Suitable for all the local terrain
-        - Rear suspension
+        - Front suspension
         - Flat pedals
       plan: Electric Mountain Bike
       price1: '25'
