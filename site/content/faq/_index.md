@@ -25,9 +25,13 @@ head2:
     text: "FAQ'S ABOUT BIKE HIRE" 
 question7:
     heading: 1. Do you deliver and pick-up bikes for hire?
-    text: "Given sufficient notice we can deliver and pick-up within a 6 mile (10km) radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes."
+    text: "Given sufficient notice we can deliver and pick-up within a 6 mile (10km) radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes. We will also deliver and pick up at the following locations: <br><br>The Merry Harriers, Hambledon<br>Hambledon Village Shop<br>The Crown Inn, Chiddingfold<br>The Swan Inn, Chiddingfold<br>The Mulberry Inn, Chiddingfold<br>Lythe Hill Hotel, Haslemere<br>Heath Hall Farm, Bowlhead Green<br>Witley Railway Station<br>Milford Railway Station"
 question8:
     heading: 2. What is provided with a hire bike?
     text: "We'll provide you with a helmet, a lock, a route map and a number to call in case of problems."
+    heading: 3. What happens if something goes wrong?
+    text: "We'll give you a number you can call if anything goes wrong. If necessary we'll come out to repair a bike or to pick you up. A pick up will normally incur a £15 charge."
+    heading: 3. Can we hire children's bikes and/or child trailers?
+    text: "Yes, but we'll need at least 7 days notice."
 ---
 
