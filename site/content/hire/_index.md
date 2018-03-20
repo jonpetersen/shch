@@ -19,8 +19,11 @@ intro:
     - image: /img/triban540.jpg
       text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was Cycling Weekly's Editor's Choice Road Bike in 2017.
 main:
-  heading: Everything you need
-  description: >
+  heading_a: Hiring Kids bikes and trailers
+  description_a: >
+    We can provide kids bikes and trailers but require at least 7 days notice.
+  heading_b: Everything you need
+  description_b: >
     We'll provide you with everything you need on your ride. A helmet, a lock, a filled water bottle, route maps and a number to call just in case.
 pricing:
   heading: Hiring Rates
@@ -33,7 +36,7 @@ pricing:
         - Suitable for all the local terrain
         - Front suspension
         - Flat pedals
-      plan: Electric Mountain Bike
+      plan: E-Mountain Bike Hire
       price1: '25'
       price2: '40'
       price3: '50'
@@ -42,7 +45,7 @@ pricing:
         - Suitable for all the local terrain
         - Front suspension
         - Flat pedals (or SPD on request)
-      plan: Mountain Bike
+      plan: Mountain Bike Hire
       price1: '15'
       price2: '25'
       price3: '38'
@@ -50,7 +53,7 @@ pricing:
       items:
         - Suitable for road use and most tracks and bridleways
         - Flat pedals
-      plan: Hybrid Bike
+      plan: Hybrid Bike Hire
       price1: '15'
       price2: '25'
       price3: '38'
@@ -58,7 +61,7 @@ pricing:
       items:
         - Road use only
         - SPD Pedals (or alternative on request)
-      plan: Road Bike
+      plan: Road Bike Hire
       price1: '15'
       price2: '25'
       price3: '38'
