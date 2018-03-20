@@ -29,9 +29,11 @@ question7:
 question8:
     heading: 2. What is provided with a hire bike?
     text: "We'll provide you with a helmet, a lock, a route map and a number to call in case of problems."
+question9:
     heading: 3. What happens if something goes wrong?
     text: "We'll give you a number you can call if anything goes wrong. If necessary we'll come out to repair a bike or to pick you up. A pick up will normally incur a £15 charge."
-    heading: 3. Can we hire children's bikes and/or child trailers?
+question10:
+    heading: 4. Can we hire children's bikes and/or child trailers?
     text: "Yes, but we'll need at least 7 days notice."
 ---
 
