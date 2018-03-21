@@ -21,6 +21,9 @@ question5:
 question6:
     heading: 6. What happens if it rains?
     text: "Unless the weather makes cycling dangerous then the tour will go ahead."
+question11:
+    heading: 7. Can some of our group use non-electric bikes on a tour?
+    text: "Yes, they'll need to be fit...."
 head2: 
     text: "FAQ'S ABOUT BIKE HIRE" 
 question7:
