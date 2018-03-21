@@ -4,8 +4,21 @@
 
 {{ partial "short-text-lead" .Params.lead}}
 
-{{ partial "short-text" .Params.blurb}}
-{{ partial "short-text" .Params.intro}}
+{{ partial "short-text-no-title" .Params.intro }}
+
+{{ partial "short-text" .Params.intro1}}
+
+<div class="tc">
+  <a href="/hire" class="btn raise">Find Out More About Bike Hire</a>
+</div>
+
+{{ partial "short-text" .Params.intro2}}
+
+<div class="tc">
+  <a href="/tours" class="btn raise">Find Out More About Bike Tours</a>
+</div>
+
+{{ partial "short-text" .Params.intro3}}
 
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
