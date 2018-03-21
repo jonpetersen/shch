@@ -25,6 +25,11 @@ p {
   max-width: 32rem;
 }
 
+p1 {
+  margin-bottom: var(--spacing-medium);
+  max-width: 48rem;
+}
+
 strong {
   font-weight: var(--bold-font-weight);
 }
