@@ -8,7 +8,7 @@ image: /img/1x11.jpg
 
 Our Voodoo Bizango hard-tail mountain bikes have what's known as a 1x11 drive train. What this means, simply, is that they have just one chain ring at the front and a cassette with 11 cogs on the rear wheel. Just 11 gears doesn't sound much, but in the world of gears, more isn't necessarily better.
 
-The first mountain bikes "Klunkerz" had just one gear. But over time more gears were added, first at the back and then with the addition of up to three chainrings on the front and it was the addition of gears to Klunkers turned them into mountain bikes that could be ridden up hills as well as down them.
+The first mountain bikes "Klunkerz" had just one gear. But over time more gears were added, first at the back and then with the addition of up to three chainrings on the front. The addition of gears to Klunkers turned them into mountain bikes that could be ridden up hills as well as down them.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h19n-5qIp78?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
