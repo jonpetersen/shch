@@ -1,5 +1,5 @@
 ---
-title: Why 1x11 Mountain Bikes?
+title: How much does it cost to charge an Electric Mountain Bike?
 date: 2013-03-21T15:04:10.000Z
 description: >-
   Eleven gears doesn't sound a lot for a mountain bike, but it's plenty and a 1x11 setup has a lot of advantages.
