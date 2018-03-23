@@ -1,6 +1,6 @@
 ---
 title: Why 1x11 Mountain Bikes?
-date: 2013-03-21T15:04:10.000Z
+date: 2018-03-21T15:04:10.000Z
 description: >-
   Eleven gears doesn't sound a lot for a mountain bike, but it's plenty and a 1x11 setup has a lot of advantages.
 image: /img/1x11.jpg
