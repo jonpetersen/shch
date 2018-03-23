@@ -3,7 +3,7 @@ title: Why 1x11 Mountain Bikes?
 date: 2018-03-21T15:04:10.000Z
 description: >-
   Eleven gears doesn't sound a lot for a mountain bike, but it's plenty and a 1x11 setup has a lot of advantages.
-image: http://surreyhillscyclehire.co.uk/img/1x11.png
+image: https://surreyhillscyclehire.co.uk/img/1x11.png
 ---
 
 Our Voodoo Bizango hard-tail mountain bikes have what's known as a 1x11 drive train. What this means, simply, is that they have just one chain ring at the front and a cassette with 11 cogs on the rear wheel. Just 11 gears doesn't sound much, but in the world of gears, more isn't necessarily better.
