@@ -3,7 +3,7 @@ title: How much does it cost to charge an Electric Mountain Bike?
 date: 2018-03-23T14:04:10.000Z
 description: >-
   The short answer: not a lot.
-image: /img/charger.jpg
+image: /img/battery.jpg
 ---
 Sometimes we'll take advantage of a coffee stop to top up the bike battery on a mountain bike. If it's been a long day with lots of climbing and the rider has been seduced by turbo mode then a bit of extra juice to get home is a nice insurance. We'll always ask for permission to plug in and, understandably, are often asked what effect we'll have on the establishments electricity bill.
 
