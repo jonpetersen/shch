@@ -15,7 +15,7 @@ The first mountain bikes, "Klunkerz", had just one gear. But over time more gear
 The development of rear cassettes with 10 gears and triple chainrings on the front means there are mountain bikes with 30 gears. But, in practice some of these gears duplicate each other, meaning a 3x10 setup has around 18 effective gears and a few downsides:
 
 1. The rider has to operate two levers and be aware of the chain position at both the front and the rear.
-2. The less moving parts on a bike the better, a front shifter is another part that can fail (for example with a cable breaking)  or go out of alignment.
+2. The less moving parts on a bike the better, a front shifter is another part that can fail (for example with a cable breaking) or go out of alignment.
 3. When riding in muddy conditions the front shifter can easily get clogged with mud.
 
 So a 1x11 setup offers 11 useable gears, with none of these downsides. The SRAM NX11 cassette used on the Voodoo Bizangos offers a 42 tooth easy gear and an 11 tooth hard gear. The easy gear will get you up any slope that is rideable (based on condition and incline), the hard gear will propel you as fast as you need to go on a mountain bike (it would probably not be adequate for a road bike).
