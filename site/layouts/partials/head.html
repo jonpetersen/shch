@@ -3,7 +3,12 @@
 	<title>Bike Hire & Guided Electric Bike Tours in the Surrey Hills. Electric mountain bikes, road bikes, hybrids and traditional mountain bikes for hire. Wonderful country lanes and paths only 55 minutes from London.</title>
 	<link rel="stylesheet" href="/css/main.css" />
 
-    <meta name="description" content="Hire a bike or go on an electric bike tour in the Surrey Hills. Electric Mountain bikes, mountain bikes, road bikes and hybrid bikes all available. Convenient to South West Surrey, West Sussex, Guildford, Godalming and Farnham.">
+    <meta name="author" content="Surrey Hills Cycle Hire" />
+	{{ if .IsPage }}
+    <meta name="description" content="{{ .Summary }}" />
+    {{ else }}
+	<meta name="description" content="Hire a bike or go on an electric bike tour in the Surrey Hills. Electric Mountain bikes, mountain bikes, road bikes and hybrid bikes all available. Convenient to South West Surrey, West Sussex, Guildford, Godalming and Farnham."/>
+    {{ end }}
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -20,35 +25,53 @@
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
 	<meta name="theme-color" content="#fff">
-
+     
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
+    <meta property="og:type" content="business.business">
+	{{ if .IsPage }}
+	<meta name="og:title" content="{{ .Title }}" />
+	<meta name="og:description" content="{{ .Summary }}" />
+	<meta name="og:image" content="{{ .Params.image }}" /> 
+    <meta property="og:url" content="{{ .URL }}">
+	{{ else }}
 	<meta property="og:title" content="Surrey Hills Cycle Hire">
 	<meta property="og:description" content="Bike hire and guided electric bike tours in the beautiful area around Hambledon in the Surrey Hills.">
 	<meta property="og:url" content="https://surreyhillscyclehire.co.uk">
 	<meta property="og:image" content="/img/og-image.jpg">
+    {{ end }}
     
     <meta name="twitter:site" content="@surreyhillsch" />
     <meta name="twitter:creator" content="@surreyhillsch" />
+    {{ if .IsPage }}
+    <meta name="twitter:description" content="{{ .Summary }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ .Params.image }}" /> 
+    {{ else }}
+    <meta name="twitter:title" content="{{ .Site.Title }}" />
+    <meta name="twitter:description" content="{{ .Description }}" /> 
+    {{ end }}
     
     <!-- Geo tags -->
     <meta name="ICBM" content="51.137273, -0.620589">
     <meta name="geo.position" content="51.137273, -0.620589">
     
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	
+	{{ if .IsPage }}
 	<script  type="application/ld+json">
       {
       "@context" : "http://schema.org",
-      "@type" : "LocalBusiness",
+      "@type" : "BlogPosting",
       "name" : "Surrey Hills Cycle Hire",
       "telephone" : "+447506173480",
-      "image":"http://d33wubrfki0l68.cloudfront.net/9fcacfbdaf6e1442609e0c318825d6ecea82596b/32c42/img/shch_logo_text.svg",
+      "image": "{{ .Params.image }}",
       "address": {
       "@type": "PostalAddress","streetAddress" : "Pear Tree Cottage","addressLocality" : "Beech Hill","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HL"},
-      
-      "description" : "We offer bike hire and guided Electric Mountain Bike Tours in the Surrey Hills centred on the beautiful village of Hambledon. ",
-      "url" : "https://surreyhillscyclehire.co.uk",
-      "logo" : "http://d33wubrfki0l68.cloudfront.net/9fcacfbdaf6e1442609e0c318825d6ecea82596b/32c42/img/shch_logo_text.svg",
+      "headline": "",
+      "description" : "{{ .Summary }}",
+      "url" : "{{ .URL }}",
+      "logo" : "/img/shch_logo_text.svg",
       "openingHours": [ "Mo-Su 09:00-17:00" ],
       "sameAs": [ "https://twitter.com/surreyhillsch",
       "https://www.facebook.com/surreyhillscyclehire/" ],
@@ -68,6 +91,40 @@
       "additionalType": "http://www.productontology.org/id/Bike_rental"
       }
 	</script>
+	{{ else }}
+	<script  type="application/ld+json">
+      {
+      "@context" : "http://schema.org",
+      "@type" : "LocalBusiness",
+      "name" : "Surrey Hills Cycle Hire",
+      "telephone" : "+447506173480",
+      "image":"/img/shch_logo_text.svg",
+      "address": {
+      "@type": "PostalAddress","streetAddress" : "Pear Tree Cottage","addressLocality" : "Beech Hill","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HL"},
+      "description" : "We offer bike hire and guided Electric Mountain Bike Tours in the Surrey Hills centred on the beautiful village of Hambledon. ",
+      "headline": "Surrey Hills Cycle Hire",
+      "url" : "https://surreyhillscyclehire.co.uk",
+      "logo" : "/img/shch_logo_text.svg",
+      "openingHours": [ "Mo-Su 09:00-17:00" ],
+      "sameAs": [ "https://twitter.com/surreyhillsch",
+      "https://www.facebook.com/surreyhillscyclehire/" ],
+      "priceRange" : "$",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+447506173480",
+        "contactType": "reservations",
+        "areaServed": "GB"
+      },
+      "hasMap": "https://www.google.co.uk/maps/place/Surrey+Hills+Cycle+Hire/@51.1372099,-0.6226836,17z/data=!3m1!4b1!4m5!3m4!1s0x4875ce588e9b8545:0xeef1003f6ab29376!8m2!3d51.1372099!4d-0.6204896",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "40.75",
+        "longitude": "73.98"
+      },
+      "additionalType": "http://www.productontology.org/id/Bike_rental"
+      }
+	</script>
+	{{ end }}
     
     {{ if ne (printf "%v" $.Site.BaseURL) "http://localhost:3000/" }}    
     {{ template "_internal/google_analytics.html" . }}
