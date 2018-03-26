@@ -1,5 +1,5 @@
 ---
-title: Suggested Cycle Routes
+title: Surrey Cycle Routes
 image: /img/photos/hydons_ball_path.jpg
 intro: 
   text: Some of our regular routes are listed below. All of them are downloadable via a GPX file to your GPS device or smartphone.
