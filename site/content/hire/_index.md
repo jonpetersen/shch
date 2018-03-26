@@ -10,14 +10,14 @@ intro:
     - image: /img/134111_light.jpg
       text: >
         Our Electric Mountain Bikes are Cube Reaction Hybrid models, featuring
-        Bosch CX electric engines and 500w batteries.
+        Bosch CX electric engines and 500w batteries. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**.
     - image: /img/bizango.jpeg
       text: |
         Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won Mountain Bike Rider's Hardtail of the Year award.
     - image: /img/beinn29.png
-      text: Our Hybrid Bikes are the Islabikes Beinn 29. Lightweight aluminium frame, super wide range 10-speed gears make climbing a breeze and disc brakes. Suitable for light off-road use.
+      text: Our Hybrid Bikes are the Islabikes Beinn 29. Lightweight aluminium frame, super wide range 10-speed gears make climbing a breeze and disc brakes. Suitable for light off-road use. **[Read more about the Islabikes Beinn 29](https://www.islabikes.co.uk/product/bikes/beinn-29/)**.
     - image: /img/triban540.jpg
-      text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was Cycling Weekly's Editor's Choice Road Bike in 2017.
+      text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was **[Cycling Weekly's Editor's Choice Road Bike](http://www.cyclingweekly.com/editors-choice/btwin-triban-540-2-358136)** in 2017.
 main:
   heading_a: Hiring Kids bikes and trailers
   description_a: >
