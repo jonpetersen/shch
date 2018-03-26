@@ -2,7 +2,7 @@
 title: Bike Hire
 image: /img/photos/hydons_ball_path.jpg
 intro:
-  heading: What we offer
+  heading: Our Hire Bikes
   description: >
     All our bikes are less than a year old and are maintained to the highest
     standards. We have hybrid, mountain and road bikes.
