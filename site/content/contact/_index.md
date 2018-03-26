@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Surrey Hills Cycle Hire"
 image: /img/photos/map.jpg
 logo: "/img/shch_logo_text.svg"
 contact_entries:
