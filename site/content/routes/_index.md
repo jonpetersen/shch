@@ -23,6 +23,11 @@ route4:
   heading: Route 4 - Bowlhead Green, Thursley Common, Witley Common and Busses Common (2 to 2.5 hours)
   description: >
     This route of around 15 miles (24km) starts on quiet paths and roads to Bowlhead Green. Then follows bridleways around Thursley National Nature Reserve. From there the route crosses over into Witley Common and returns to Hambledon via Busses Common. Around 70% of the route is off-road and the total ascent is 363m.
+route5:
+  anchor: route5
+  heading: Route 5 - Shackleford, Tilford, Hankley Common, Thursley Common (5 to 6 hours)
+  description: >
+    This route of around 27 miles (44km) is a full day out, but takes in seven pubs, a brewery and three cafes, so you won't be short of sustenance. It starts by heading north from Hambledon to cross the A3 at Eashing, then heads towards Shackelford. You now go cross country to Tilford before heading south to Frensham Big Pond. From here you start heading east across Hankley and Thursley Commons, cross the A3 and head back towards Hambledon. Around 80% of the route is off-road and the total ascent is 589m.
 
 
 ---
