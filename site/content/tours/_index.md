@@ -1,4 +1,5 @@
 ---
+headertitle: "Guided Electric Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
 title: Electric Bike Tours
 image: /img/photos/bluebells.jpg
 heading: What we offer
