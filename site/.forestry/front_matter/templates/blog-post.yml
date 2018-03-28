@@ -31,3 +31,8 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- type: textarea
+  config:
+    required: true
+  name: Text
+  label: Enter Text Here
