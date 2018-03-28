@@ -28,7 +28,7 @@ head2:
     text: "FAQ'S ABOUT BIKE HIRE" 
 question7:
     heading: 1. Do you deliver and pick-up bikes for hire?
-    text: "Given sufficient notice we can deliver and pick-up within a 6 mile (10km) radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes. We will also deliver and pick up at the following locations: <br><br>The Merry Harriers, Hambledon<br>Hambledon Village Shop<br>The Crown Inn, Chiddingfold<br>The Swan Inn, Chiddingfold<br>The Mulberry Inn, Chiddingfold<br>Lythe Hill Hotel, Haslemere<br>Heath Hall Farm, Bowlhead Green<br>The Inn on the Lake, Godalming<br>Kings Arms, Godalming<br>Witley Railway Station<br>Milford Railway Station"
+    text: "Given sufficient notice we can deliver and pick-up within a 6 mile (10km) radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes. We will also deliver and pick up at the following locations: <br><br>The Merry Harriers, Hambledon<br>Hambledon Village Shop<br>The Crown Inn, Chiddingfold<br>The Swan Inn, Chiddingfold<br>The Mulberry Inn, Chiddingfold<br>Lythe Hill Hotel, Haslemere<br>Heath Hall Farm, Bowlhead Green<br>The Inn on the Lake, Godalming<br>Kings Arms, Godalming<br>The Barn at Roundhurst, Lurgashall, West Sussex<br>Godalming Railway Station<br>Witley Railway Station<br>Milford Railway Station"
 question8:
     heading: 2. What is provided with a hire bike?
     text: "We'll provide you with a helmet, a lock, a route map and a number to call in case of problems."
