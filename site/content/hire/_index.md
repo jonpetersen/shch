@@ -1,4 +1,5 @@
 ---
+headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
 title: Bike Hire
 image: /img/photos/hydons_ball_path.jpg
 intro:
