@@ -1,8 +1,10 @@
 <head>
-
-	<title>{{.Params.headertitle}} | Electric mountain bikes, road bikes, hybrids and mountain bikes for hire.</title>
+    {{ if .Params.headertitle }}
+	<title>{{ .Params.headertitle }} | Electric mountain bikes, road bikes, hybrids and mountain bikes for hire.</title>
+	{{ else }}
+    <title>Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. | Electric mountain bikes, road bikes, hybrids and mountain bikes for hire.</title>
+	{{ end }}
 	<link rel="stylesheet" href="/css/main.css" />
-
     <meta name="author" content="Surrey Hills Cycle Hire" />
 	{{ if .IsPage }}
     <meta name="description" content="{{ .Summary }}" />
