@@ -1,26 +1,26 @@
 ---
-headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. Hire racing bikes, mountain bikes, hybrids and electric bikes. Electric Bikes Guildford."
 title: Bike Hire
 image: /img/photos/hydons_ball_path.jpg
 intro:
   heading: Our Hire Bikes
   description: >
-    All our bikes are less than a year old and are maintained to the highest
-    standards. We have hybrid, mountain and road bikes.
+    All our rental bikes are less than a year old and are maintained to the highest
+    standards. We have hybrid, mountain and road bikes and electric mountain bikes for hire.
   blurbs:
     - image: /img/134111_light.jpg
       text: >
         Our Electric Mountain Bikes are Cube Reaction Hybrid models, featuring
-        Bosch CX electric engines and 500w batteries. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**.
+        Bosch CX electric engines and 500w batteries. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**. Hiring an electric bike for a couple of hours is a great way to try one out if you're thinking of buying one.
     - image: /img/bizango.jpeg
       text: |
         Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won Mountain Bike Rider's Hardtail of the Year award.
     - image: /img/beinn29.png
       text: Our Hybrid Bikes are the Islabikes Beinn 29. Lightweight aluminium frame, super wide range 10-speed gears make climbing a breeze and disc brakes. Suitable for light off-road use. **[Read more about the Islabikes Beinn 29](https://www.islabikes.co.uk/product/bikes/beinn-29/)**.
     - image: /img/triban540.jpg
-      text: Our Road Bikes are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was **[Cycling Weekly's Editor's Choice Road Bike](http://www.cyclingweekly.com/editors-choice/btwin-triban-540-2-358136)** in 2017.
+      text: Our Road Bikes (racing bikes) are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was **[Cycling Weekly's Editor's Choice Road Bike](http://www.cyclingweekly.com/editors-choice/btwin-triban-540-2-358136)** in 2017.
 main:
-  heading_a: Hiring Kids bikes and trailers
+  heading_a: Hiring kids bikes and trailers
   description_a: >
     We can provide kids bikes and trailers but require at least 7 days notice.
   heading_b: Everything you need
