@@ -27,6 +27,7 @@ main:
   description_b: >
     We'll provide you with everything you need on your ride. A helmet, a lock, a filled water bottle, route maps and a number to call just in case.
 pricing:
+  anchor: hireprices
   heading: Hiring Rates
   description: >-
     Bikes can be hired for 2 hours, half a day (4 hours) or a full day.
