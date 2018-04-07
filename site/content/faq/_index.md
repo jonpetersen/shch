@@ -40,9 +40,8 @@ question7:
   heading: 1. Do you deliver and pick-up bikes for hire?
   text: 'Given sufficient notice we can deliver and pick-up within a 6 mile (10km)
     radius of Hambledon, Surrey, provided the booking is for a minimum of 2 bikes.
-    We will also deliver and pick up at the following locations: <br><br>The Merry
-    Harriers, Hambledon<br>Hambledon Village Shop<br>The Crown Inn, Chiddingfold<br>The
-    Swan Inn, Chiddingfold<br>The Mulberry Inn, Chiddingfold<br>Lythe Hill Hotel,
+    We will also deliver and pick up at the following locations: <br><br>**[The Merry Harriers, Hambledon](https://www.merryharriers.com)**<br>**[Hambledon Village Shop](https://facebook.com/hambledonvillageshop)**<br>The Crown Inn, Chiddingfold<br>The
+    Swan Inn, Chiddingfold<br>The Mulberry Inn, Chiddingfold<br>**["Ges" Glamping at Chiddingfold](http://mycoolholiday.co.uk)**<br>Lythe Hill Hotel,
     Haslemere<br>Heath Hall Farm, Bowlhead Green<br>The Inn on the Lake, Godalming<br>Kings
     Arms, Godalming<br>The Barn at Roundhurst, Lurgashall, West Sussex<br>Godalming
     Railway Station<br>Witley Railway Station<br>Milford Railway Station'
