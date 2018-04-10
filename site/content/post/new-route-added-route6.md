@@ -1,9 +1,9 @@
 ---
 headertitle: "Cycle Routes and Cycle Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
-title: New Route Added - Route 6 Dunsfold, Sidney Wood, Wey South Path, Loxwood (4 to 5 hours)
+title: New Route Added - Route 6: Dunsfold, Sidney Wood, Wey South Path, Loxwood (4 to 5 hours)
 date: 2018-04-10T11:04:10.000Z
 description: >-
-  To The Onslow Arms via the Wey Arun Canal, then back through the woods
+  To The Onslow Arms via the Wey & Arun Canal, then back through the woods
 image: /img/route6.png
 ---
 This route starts by heading over to Dunsfold via the farm track to Loxhill. Once in Dunsfold, if you fancy an early refreshment break, there's a nice, friendly **[Village Shop](http://www.dunsfoldvillageshop.co.uk)** and **[The Sun Inn](http://www.suninndunsfold.co.uk)**.
