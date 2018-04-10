@@ -29,6 +29,11 @@ route5:
   heading: Route 5 - Shackleford, Tilford, Hankley Common, Thursley Common (5 to 6 hours)
   description: >
     This route of around 27 miles (44km) is a full day out, but takes in seven pubs, a brewery and three cafes, so you won't be short of sustenance. It starts by heading north from Hambledon to cross the A3 at Eashing, then heads towards Shackelford. You now go cross country to Tilford before heading south to Frensham Big Pond. From here you start heading east across Hankley and Thursley Commons, cross the A3 and head back towards Hambledon. Around 80% of the route is off-road and the total ascent is 589m.
+route6:
+  anchor: route6
+  heading: Route 6 - Loxhill, Dunsfold, Sidney Wood, Loxwood, Hog Wood, Tugely Wood (4 to 5 hours)
+  description: >
+    This route of around 19 miles (31km) tries to avoid the worst of the mud and is relatively flat, so is a good option if it's been wet. It starts by across to Dunsfold on a farm track, then heads south east through Sidney Wood before taking the Wey South path and the Wey and Arun canal path to Loxwood and **[The Onslow Arms](http://onslowarmsloxwood.com)**. The return route takes you through Hog Wood and Tugley Wood before returning to Hambledon. Around 60% of the route is off-road and the total ascent is 310m. **[You can download a more detailed description here.](/routes/gpx/route6.pdf)**
 
 
 ---
