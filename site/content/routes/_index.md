@@ -33,7 +33,7 @@ route6:
   anchor: route6
   heading: Route 6 - Loxhill, Dunsfold, Sidney Wood, Loxwood, Hog Wood, Tugely Wood (4 to 5 hours)
   description: >
-    This route of around 19 miles (31km) tries to avoid the worst of the mud and is relatively flat, so is a good option if it's been wet. It starts by across to Dunsfold on a farm track, then heads south east through Sidney Wood before taking the Wey South path and the Wey and Arun canal path to Loxwood and **[The Onslow Arms](http://onslowarmsloxwood.com)**. The return route takes you through Hog Wood and Tugley Wood before returning to Hambledon. Around 60% of the route is off-road and the total ascent is 310m. **[You can download a more detailed description here.](/routes/gpx/route6.pdf)**
+    This route of around 19 miles (31km) tries to avoid the worst of the mud and is relatively flat, so is a good option if it's been wet. It starts by across to Dunsfold on a farm track, then heads south east through Sidney Wood before taking the Wey South path and the Wey and Arun canal path to Loxwood and **[The Onslow Arms](http://onslowarmsloxwood.com)**. The return route takes you through Hog Wood and Tugley Wood before returning to Hambledon. Around 60% of the route is off-road and the total ascent is 310m. **[You can download a more detailed description here.](/routes/pdf/route6.pdf)**
 
 
 ---
