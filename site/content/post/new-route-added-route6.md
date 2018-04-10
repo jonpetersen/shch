@@ -1,9 +1,9 @@
 ---
 headertitle: "Cycle Routes and Cycle Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
-title: New Route Added - Route 6: Dunsfold, Sidney Wood, Wey South Path, Loxwood (4 to 5 hours)
+title: New Route Added - "Route 6 Dunsfold, Sidney Wood, Wey South Path, Loxwood (4 to 5 hours)"
 date: 2018-04-10T11:04:10.000Z
 description: >-
-  To The Onslow Arms via the Wey & Arun Canal, then back through the woods
+  "To The Onslow Arms via the Wey and Arun Canal, then back through the woods"
 image: /img/route6.png
 ---
 This route starts by heading over to Dunsfold via the farm track to Loxhill. Once in Dunsfold, if you fancy an early refreshment break, there's a nice, friendly **[Village Shop](http://www.dunsfoldvillageshop.co.uk)** and **[The Sun Inn](http://www.suninndunsfold.co.uk)**.
@@ -17,7 +17,5 @@ It's a common misconception that Common Land has no ownership, in fact it is own
 After leaving Hambledon, this route starts by following quiet roads and the Greensand Way, through Bowlhead Green before crossing the A3 to Thursley Common. Just before entering Thursley Common, you'll pass close to the **[Three Horseshoes pub](http://threehorseshoesthursley.com)**, a good place to stop for refreshments and owned by the commoners of Thursley (the local villagers bought the pub in 2004).
 
 The route then follows bridleways to head north through Thursley Common, then east across Elstead Common and then South across Ockley Common. These commons are some of the last remaining heathlands in Surrey and are famed for their diverse wildlife, Thursley Common is a Site of Special Scientific Interest as well as a National Nature Reserve.
-
-At the south end of Thursley Common the route crosses back across the A3 to Witley Common. Heading east across Witley Common brings us to Mare Hill Common. Keep heading east and you'll cross the A283 just south of The Star pub. You'll then head under the railway line before reaching Busses Common and returning to Hambledon.
 
 You can explore this route and download its GPX file from the **[Routes Page of this website](/routes/#route4)**. 
