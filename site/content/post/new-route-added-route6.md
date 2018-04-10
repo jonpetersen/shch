@@ -14,6 +14,6 @@ Heading down Knightons Lane from Dunsfold takes you into Sidney Wood. After pass
 
 ![The Onslow Arms, Loxwood](/img/onslowarms.jpg)
 
-Cycling down the tow path to Loxwood, you'll follow a section of the canal that has been made operational and end up at **[The Onslow Arms](http://onslowarmsloxwood.com)**. This is a good place to stop as there are no refreshment stops on the return route. Once you're revived, you'll head back along the canal path for a short while before turning off west to head through Hog Wood and Tugley Wood on the way back to Hambledon via White Beech Lane and Vann Lane. 
+Cycling down the tow path to Loxwood, you'll follow a section of the canal that has been made operational and end up at **[The Onslow Arms](http://onslowarmsloxwood.com)**. This is a good place to stop as there are no refreshment stops on the return route. Once you're revived, you'll head back along the canal path for a short while, before turning off west to head through Hog Wood and Tugley Wood on the way back to Hambledon via White Beech Lane and Vann Lane. 
 
 You can explore this route and download its GPX file from the **[Routes Page of this website](/routes/#route4)**. There is also a more extensive description of the route **[available for download here](/pdf/route6.pdf)**.
