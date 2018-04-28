@@ -41,7 +41,7 @@ pricing:
       plan: E-Mountain Bike Hire
       price1: '25'
       price2: '40'
-      price3: '50'
+      price3: '55'
     - description: Voodoo Bizango 29er
       items:
         - Suitable for all the local terrain
