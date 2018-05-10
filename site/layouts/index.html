@@ -20,6 +20,30 @@
 
 {{ partial "short-text" .Params.intro3}}
 
+<div id="google-reviews"></div>
+
+<!-- <link rel="stylesheet" href="https://cdn.rawgit.com/stevenmonson/googleReviews/master/google-places.css"> -->
+<link rel="stylesheet" href="/css/reviews.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.rawgit.com/stevenmonson/googleReviews/6e8f0d79/google-places.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCcbjItLHSRZbMXWQEva-i5Pxnnz0nl_DE&signed_in=true&libraries=places"></script>
+
+<script> 
+jQuery(document).ready(function( $ ) {
+   $("#google-reviews").googlePlaces({
+        placeId: 'ChIJRYWbjljOdUgRdpOyaj8A8e4' //Find placeID @: https://developers.google.com/places/place-id
+      , render: ['reviews']
+      , min_rating: 4
+      , max_rows:4
+   });
+});
+</script>
+<br>
+<div class="tc">
+  <a href="https://www.google.com/search?q=surreyhillscyclehire&ie=utf-8&oe=utf-8&client=firefox-b-ab#lrd=0x4875ce588e9b8545:0xeef1003f6ab29376,1,,," class="btn raise">See All Our Reviews</a>
+</div>
+<br>
+
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
 {{ end }}
