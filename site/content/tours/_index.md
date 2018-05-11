@@ -50,6 +50,6 @@ pricing:
       price: '30'
 blurb2:
     heading: Custom Tours / Corporate Events
-    text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery."
+    text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery. We can also put together a bike activity for your corporate event."
 ---
 
