@@ -14,4 +14,4 @@ After Box Hill the route goes up Coldharbour Lane before climbing Leith Hill and
 
 At nearly 100km in length and with 1400m of climbing you'll need to be fit and on a road bike to take on this route.
 
-You can explore this route and download its GPX file from the **[Routes Page of this website](/routes/#route7)
+You can explore this route and download its GPX file from the **[Routes Page of this website](/routes/#route7).
