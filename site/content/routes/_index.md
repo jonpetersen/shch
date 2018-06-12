@@ -38,7 +38,7 @@ route7:
   anchor: route7
   heading: Route 7 (on road) - Box Hill, Coldharbour, Leith Hill (4 to 5 hours)
   description: >
-    This route of around 57 miles (92km) heads from Hambledon to Bramley, over to Ranmore Common, then takes in the iconic Surrey Hills climbs of Box Hill, Coldharbour and Leith Hill before heading back to Hambledon via Dunsfold.
+    This route of around 57 miles (92km) heads from Hambledon to Bramley, over to Ranmore Common, then takes in the iconic Surrey Hills climbs of Box Hill, Coldharbour and Leith Hill before heading back to Hambledon via Dunsfold. The total ascent is 1400m.
 
 
 ---
