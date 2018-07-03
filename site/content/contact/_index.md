@@ -1,11 +1,11 @@
 ---
-headertitle: "Bicycle Hire and Bicycle Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "Bicycle Hire, Bicycle Tours and Cycling based Corporate Events in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
 title: "Surrey Hills Cycle Hire"
 image: /img/photos/map.jpg
 logo: "/img/shch_logo_text.svg"
 contact_entries:
   - heading: Location
-    text: "Pear Tree Cottage, Beech Hill, Hambledon, Surrey GU8 4HL"
+    text: "Hambledon Village Shop, The Cricket Green, Hambledon, Surrey GU8 4HF"
   - heading: Our Season
     text: "Hire bikes are available all year round. Guided tours run from Saturday 24th March 2018 to Sunday 28th October 2018"
 ---
