@@ -6,7 +6,7 @@ intro:
   heading: Our Hire Bikes
   description: >
     All our rental bikes are less than a year old and are maintained to the highest
-    standards. We have hybrid, mountain and road bikes and electric mountain bikes for hire.
+    standards. We have mountain, road bikes and electric mountain bikes for hire.
   blurbs:
     - image: /img/134111_light.jpg
       text: >
