@@ -11,12 +11,10 @@ intro:
     - image: /img/134111_light.jpg
       text: >
         Our Electric Mountain Bikes are Cube Reaction Hybrid models, featuring
-        Bosch CX electric engines and 500w batteries. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**. Hiring an electric bike for a couple of hours is a great way to try one out if you're thinking of buying one.
+        Bosch CX electric engines. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**. Hiring an electric bike for a couple of hours is a great way to try one out if you're thinking of buying one.
     - image: /img/bizango.jpeg
       text: |
         Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won Mountain Bike Rider's Hardtail of the Year award.
-    - image: /img/beinn29.png
-      text: Our Hybrid Bikes are the Islabikes Beinn 29. Lightweight aluminium frame, super wide range 10-speed gears make climbing a breeze and disc brakes. Suitable for light off-road use. **[Read more about the Islabikes Beinn 29](https://www.islabikes.co.uk/product/bikes/beinn-29/)**.
     - image: /img/triban540.jpg
       text: Our Road Bikes (racing bikes) are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was **[Cycling Weekly's Editor's Choice Road Bike](http://www.cyclingweekly.com/editors-choice/btwin-triban-540-2-358136)** in 2017.
 main:
@@ -30,7 +28,7 @@ pricing:
   anchor: hireprices
   heading: Hiring Rates
   description: >-
-    Bikes can be hired for 2 hours, half a day (4 hours) or a full day.
+    Please contact us if you would like to hire a bike for more than a day.
   plans:
     - description: Cube Reaction Hybrid
       items:
@@ -48,14 +46,6 @@ pricing:
         - Front suspension
         - Flat pedals (or SPD on request)
       plan: Mountain Bike Hire
-      price1: '15'
-      price2: '25'
-      price3: '38'
-    - description: Islabikes Beinn 29
-      items:
-        - Suitable for road use and most tracks and bridleways
-        - Flat pedals
-      plan: Hybrid Bike Hire
       price1: '15'
       price2: '25'
       price3: '38'
