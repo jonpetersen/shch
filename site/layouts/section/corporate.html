@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+{{ partial "4-up" .Params.intro }}
+
+{{ partial "short-text" .Params.blurb }}
+{{ partial "short-text" .Params.blurb2 }}
+
+<div class="tc">
+  <a href="/contact" class="btn raise">Contact Us About A Corporate Event</a>
+</div>
+<br></br>
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
+
+
+{{ end }}
