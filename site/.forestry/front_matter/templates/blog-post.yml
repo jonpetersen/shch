@@ -1,7 +1,7 @@
 ---
-pages:
-- post/test-post.md
+label: Blog Post
 hide_body: false
+is_partial: false
 fields:
 - name: headertitle
   label: Headertitle
@@ -33,3 +33,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- site/content/post/cycle-surrey-hills-new-marked-routes.md
