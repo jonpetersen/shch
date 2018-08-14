@@ -19,7 +19,7 @@ The network comprises five interconnected loops each around 20km in length. The 
 
 **[Frensham](https://www.surreyhills.org/discover-route/cycle-surrey-hills/)** - 17km, difficulty level 4
 
-The routes are signposted and maps are displayed on some signposts. Leaflets are available with maps of all the routes at the National Trust information point next door to the cafe at The Devils' Punchbowl. Or you can **[download one here](https://www.surreyhills.org/wp-content/uploads/2018/06/Cycle-Surrey-Hills.pdf).
+The routes are signposted and maps are displayed on some signposts. Leaflets are available with maps of all the routes at the National Trust information point next door to the cafe at The Devils' Punchbowl. Or you can **[download one here]**(https://www.surreyhills.org/wp-content/uploads/2018/06/Cycle-Surrey-Hills.pdf).
 
 ![Map](/img/maps.jpg)
 
