@@ -21,6 +21,12 @@ The network comprises five interconnected loops each around 20km in length. The 
 
 The routes are signposted and maps are displayed on some signposts.
 
-![Dunsfold Village Shop](/img/dunsfoldvs.jpg)
+![Map](/img/map.jpg)
 
-**[You can read more here](https://www.surreyhills.org/cycle-surrey-hills/)**
+Unfortunately not all the signage is in place as of August 2018.
+
+![Missing Map](/img/missing_maps.jpg)
+
+![More Missing Maps](/img/missing_maps2.jpg)
+
+**[You can read more about Cycle Surrey Hills here](https://www.surreyhills.org/cycle-surrey-hills/)**
