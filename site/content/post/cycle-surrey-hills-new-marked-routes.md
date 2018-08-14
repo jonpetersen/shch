@@ -1,9 +1,9 @@
 +++
 date = "2018-08-14T10:23:35+00:00"
-description = "Five new off road cycling routes have been launched in The Surrey Hills"
+description = "Five new off-road cycling routes have been launched in The Surrey Hills"
 draft = true
-headertitle = ""
-image = ""
+headertitle = "Cycle Surrey Hills - New Marked Routes"
+image = "/uploads/2018/08/14/IMG_2615.jpg"
 title = "Cycle Surrey Hills - New Marked Routes"
 type = "Routes"
 
