@@ -8,3 +8,4 @@ title = "Cycle Surrey Hills - New Marked Routes"
 type = "Routes"
 
 +++
+Cycling UK and the Surrey Hills Area of Outstanding Natural Beauty (AONB) have recently launched a 90km network of signposted off-road cycle trails.
