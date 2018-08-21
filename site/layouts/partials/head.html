@@ -68,10 +68,10 @@
       "@context" : "http://schema.org",
       "@type" : "BlogPosting",
       "name" : "Surrey Hills Cycle Hire",
-      "telephone" : "+447506173480",
+      "telephone" : "+44-7506173480",
       "image": "{{ .Params.image }}",
       "address": {
-      "@type": "PostalAddress", "streetAddress" : "Hambledon Village Shop","addressLocality" : "The Cricket Green","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HF"},
+      "@type": "PostalAddress", "streetAddress" : "Hambledon Village Shop","addressLocality" : "The Cricket Green","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HF", "addressCountry": "GB"},
       "headline": "",
       "description" : "{{ .Summary }}",
       "url" : "{{ .URL }}",
@@ -82,7 +82,7 @@
       "priceRange" : "$",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+447506173480",
+        "telephone": "+44-7506173480",
         "contactType": "reservations",
         "areaServed": "GB"
       },
@@ -92,7 +92,8 @@
         "latitude": "51.137273",
         "longitude": "-0.620589"
       },
-      "additionalType": "http://www.productontology.org/id/Bike_rental"
+      "additionalType": "http://www.productontology.org/id/Bike_rental",
+      "acceptsReservations": "True"
       }
 	</script>
 	{{ else }}
@@ -101,10 +102,10 @@
       "@context" : "http://schema.org",
       "@type" : "LocalBusiness",
       "name" : "Surrey Hills Cycle Hire",
-      "telephone" : "+447506173480",
+      "telephone" : "+44-7506173480",
       "image":"https://surreyhillscyclehire.co.uk/img/og-image.jpg",
       "address": {
-      "@type": "PostalAddress", "streetAddress" : "Hambledon Village Shop","addressLocality" : "The Cricket Green","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HF"},
+      "@type": "PostalAddress", "streetAddress" : "Hambledon Village Shop","addressLocality" : "The Cricket Green","addressRegion" : "Hambledon, Surrey","postalCode" : "GU8 4HF", "addressCountry": "GB"},
       "description" : "We offer bike hire and guided Electric Mountain Bike Tours in the Surrey Hills centred on the beautiful village of Hambledon. ",
       "headline": "Surrey Hills Cycle Hire",
       "url" : "https://surreyhillscyclehire.co.uk",
@@ -115,7 +116,7 @@
       "priceRange" : "$",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+447506173480",
+        "telephone": "+44-7506173480",
         "contactType": "reservations",
         "areaServed": "GB"
       },
@@ -125,7 +126,8 @@
         "latitude": "51.137273",
         "longitude": "-0.620589"
       },
-      "additionalType": "http://www.productontology.org/id/Bike_rental"
+      "additionalType": "http://www.productontology.org/id/Bike_rental",
+      "acceptsReservations": "True"
       }
 	</script>
 	{{ end }}
