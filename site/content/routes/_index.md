@@ -1,5 +1,5 @@
 ---
-headertitle: "Cycle routes in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. Cycle Surrey Hills."
+headertitle: "Cycle routes in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold, Petworth, Peaslake and Leith Hill. Cycle Surrey Hills."
 title: Surrey Hills Cycle Routes
 image: /img/photos/hydons_ball_path.jpg
 intro: 
