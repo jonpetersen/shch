@@ -4,8 +4,8 @@ title: "Surrey Hills Cycle Hire"
 subtitle: Cycle Tours and Cycle Hire in the beautiful Surrey Hills
 image: /img/photos/llama_field.jpg
 
-lead: 
-    text: "Rental bikes are available all year round. Our 2018 season for guided bike tours runs from Saturday 24th March to Sunday 28th October."
+# lead: 
+#    text: "Rental bikes are available all year round. Our 2018 season for guided bike tours runs from Saturday 24th March to Sunday 28th October."
 intro:
     heading:
     text: "We offer bike hire and guided Electric Bike Tours in the Surrey Hills, centred on the beautiful village of Hambledon in the Surrey Hills Area of Outstanding Natural Beauty, just 55 minutes by train or an hours drive from London."
