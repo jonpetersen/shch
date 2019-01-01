@@ -40,26 +40,26 @@ pricing:
         - Front suspension
         - Flat pedals
       plan: E-Mountain Bike Hire
-      price1: '25'
-      price2: '40'
-      price3: '55'
+      price1: '35'
+      price2: '50'
+      price3: '65'
     - description: Voodoo Bizango 29er
       items:
         - Suitable for all the local terrain
         - Front suspension
         - Flat pedals (or SPD on request)
       plan: Mountain Bike Hire
-      price1: '15'
-      price2: '25'
-      price3: '38'
+      price1: '20'
+      price2: '30'
+      price3: '45'
     - description: Triban 540
       items:
         - Road use only
         - SPD Pedals (or alternative on request)
       plan: Road Bike Hire
-      price1: '15'
-      price2: '25'
-      price3: '38'
+      price1: '20'
+      price2: '30'
+      price3: '45'
 blurb:
     heading1: 'Electric Bike distance range'
     text1: "Our electric mountain bikes have a battery assisted range of between 30 miles (48km) and 60 miles (97km), depending on how they are ridden, the weight of the rider and the type of terrain they are used on. The bike can still be ridden once the battery has depleted, but this is unlikely to happen unless it has been used permanently in turbo mode (the top mode of the four available)."
