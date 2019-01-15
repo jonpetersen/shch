@@ -147,32 +147,25 @@
   /></noscript>
 <!-- End Facebook Pixel Code -->
 
-<!-- Facebook SDK for Javascript -->
-  <script>
-    window.fbAsyncInit = function() {
-      FB.init({
-        appId            : '1997047823683740',
-        autoLogAppEvents : true,
-        xfbml            : true,
-        version          : 'v3.2'
-      });
-/*
-      FB.ui({
-        method: 'share',
-        href: 'https://surreyhillscyclehire.co.uk'
-      }, function(response){});    
-*/
-    };
-  
-    (function(d, s, id){
-       var js, fjs = d.getElementsByTagName(s)[0];
-       if (d.getElementById(id)) {return;}
-       js = d.createElement(s); js.id = id;
-       js.src = "https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js";
-       fjs.parentNode.insertBefore(js, fjs);
-     }(document, 'script', 'facebook-jssdk'));
-  </script>
-<!-- End Facebook SDK for Javascript -->	
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook SDK for Javascript -->
+
+<!-- FB customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="167874473761271"
+  theme_color="#67b868">
+</div>
+<!-- End FB customer chat code -->
+
 
 	{{ end }}
     
