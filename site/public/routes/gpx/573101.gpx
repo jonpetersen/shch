@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Chidd-bdown-lurgashall-shillinglee-uppervann</name>
+<rtept lat="51.137099" lon="-0.619783">
+<ele>93</ele>
+<name>Start on B</name>
+<time>2018-03-09T00:00:00Z</time>
+<cmt>Start on BW181</cmt>
+<desc>Start on BW181</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.137104" lon="-0.619772">
+<ele>93</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:00:00Z</time>
+<cmt>Turn right onto Woodlands Road</cmt>
+<desc>Turn right onto Woodlands Road</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.136854" lon="-0.619382">
+<ele>90</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:00:07Z</time>
+<cmt>Turn slight right onto Woodlands Road</cmt>
+<desc>Turn slight right onto Woodlands Road</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.136078" lon="-0.618835">
+<ele>81</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:00:24Z</time>
+<cmt>Turn right onto Vann Lane</cmt>
+<desc>Turn right onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.131904" lon="-0.61462">
+<ele>69</ele>
+<name>Keep left </name>
+<time>2018-03-09T00:02:11Z</time>
+<cmt>Keep left onto Vann Lane</cmt>
+<desc>Keep left onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.131378" lon="-0.59691">
+<ele>70</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:06:22Z</time>
+<cmt>Turn right onto Vann Lane</cmt>
+<desc>Turn right onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.123898" lon="-0.598185">
+<ele>50</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:08:53Z</time>
+<cmt>Turn sharp left</cmt>
+<desc>Turn sharp left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.123898" lon="-0.598185">
+<ele>50</ele>
+<name>Turn left </name>
+<time>2018-03-09T00:08:54Z</time>
+<cmt>Turn left onto Vann Lane</cmt>
+<desc>Turn left onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.110571" lon="-0.626606">
+<ele>61</ele>
+<name>Keep left </name>
+<time>2018-03-09T00:16:55Z</time>
+<cmt>Keep left onto The Green</cmt>
+<desc>Keep left onto The Green</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.109955" lon="-0.629435">
+<ele>53</ele>
+<name>Turn left </name>
+<time>2018-03-09T00:17:33Z</time>
+<cmt>Turn left onto Petworth Road, A283</cmt>
+<desc>Turn left onto Petworth Road, A283</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.10938" lon="-0.62948">
+<ele>51</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:17:46Z</time>
+<cmt>Turn right onto Mill Lane</cmt>
+<desc>Turn right onto Mill Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.102225" lon="-0.646503">
+<ele>86</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:22:14Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.101591" lon="-0.651651">
+<ele>76</ele>
+<name>Turn left</name>
+<time>2018-03-09T00:23:24Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.094177" lon="-0.659513">
+<ele>82</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:26:29Z</time>
+<cmt>Turn sharp left onto Killinghurst Lane</cmt>
+<desc>Turn sharp left onto Killinghurst Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.086342" lon="-0.670215">
+<ele>100</ele>
+<name>Turn left</name>
+<time>2018-03-09T00:30:10Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.086284" lon="-0.669876">
+<ele>100</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:30:15Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.086284" lon="-0.669876">
+<ele>100</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:30:18Z</time>
+<cmt>Turn sharp left</cmt>
+<desc>Turn sharp left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.074338" lon="-0.671263">
+<ele>111</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:34:37Z</time>
+<cmt>Turn slight right</cmt>
+<desc>Turn slight right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.071795" lon="-0.672193">
+<ele>117</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:35:32Z</time>
+<cmt>Turn sharp left onto Jay's Lane</cmt>
+<desc>Turn sharp left onto Jay's Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.069405" lon="-0.676681">
+<ele>166</ele>
+<name>Keep left </name>
+<time>2018-03-09T00:36:53Z</time>
+<cmt>Keep left onto Tennyson Lane</cmt>
+<desc>Keep left onto Tennyson Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.072189" lon="-0.680109">
+<ele>207</ele>
+<name>Keep left </name>
+<time>2018-03-09T00:38:06Z</time>
+<cmt>Keep left onto Tennyson's Lane</cmt>
+<desc>Keep left onto Tennyson's Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.072189" lon="-0.680109">
+<ele>207</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:38:39Z</time>
+<cmt>Turn sharp left</cmt>
+<desc>Turn sharp left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.068725" lon="-0.683584">
+<ele>246</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:40:07Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.068123" lon="-0.68445">
+<ele>245</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:40:23Z</time>
+<cmt>Turn slight right</cmt>
+<desc>Turn slight right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.06807" lon="-0.684893">
+<ele>247</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:40:29Z</time>
+<cmt>Turn slight right onto Tennyson's Lane</cmt>
+<desc>Turn slight right onto Tennyson's Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.06991" lon="-0.687024">
+<ele>254</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:41:15Z</time>
+<cmt>Turn sharp left</cmt>
+<desc>Turn sharp left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.066406" lon="-0.687328">
+<ele>265</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:42:27Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.065773" lon="-0.687869">
+<ele>267</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:42:42Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.063762" lon="-0.690347">
+<ele>271</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:43:33Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.056532" lon="-0.690477">
+<ele>279</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:46:09Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.055513" lon="-0.688571">
+<ele>277</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:46:41Z</time>
+<cmt>Turn slight right</cmt>
+<desc>Turn slight right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.055402" lon="-0.688488">
+<ele>274</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:46:44Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.055087" lon="-0.688075">
+<ele>264</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:46:52Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.055005" lon="-0.688764">
+<ele>269</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:47:02Z</time>
+<cmt>Turn slight right</cmt>
+<desc>Turn slight right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.055114" lon="-0.688975">
+<ele>273</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:47:05Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.052882" lon="-0.695148">
+<ele>222</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:48:46Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.052875" lon="-0.695714">
+<ele>215</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:48:53Z</time>
+<cmt>Turn sharp left onto Fernden Lane</cmt>
+<desc>Turn sharp left onto Fernden Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.051836" lon="-0.693206">
+<ele>201</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:49:31Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.051219" lon="-0.692549">
+<ele>186</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:49:46Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.04307" lon="-0.67941">
+<ele>81</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:53:43Z</time>
+<cmt>Turn sharp left onto Jobson's Lane</cmt>
+<desc>Turn sharp left onto Jobson's Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.044166" lon="-0.679291">
+<ele>86</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:54:05Z</time>
+<cmt>Turn right onto High Lane</cmt>
+<desc>Turn right onto High Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.043845" lon="-0.676375">
+<ele>77</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:54:42Z</time>
+<cmt>Turn slight right onto High Lane</cmt>
+<desc>Turn slight right onto High Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.043469" lon="-0.673866">
+<ele>80</ele>
+<name>Keep left</name>
+<time>2018-03-09T00:55:17Z</time>
+<cmt>Keep left</cmt>
+<desc>Keep left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.043469" lon="-0.673866">
+<ele>80</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:55:18Z</time>
+<cmt>Turn sharp left onto High Lane</cmt>
+<desc>Turn sharp left onto High Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.037679" lon="-0.671466">
+<ele>78</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T00:57:20Z</time>
+<cmt>Turn sharp right onto Dial Green Lane</cmt>
+<desc>Turn sharp right onto Dial Green Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.036228" lon="-0.666519">
+<ele>58</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T00:58:37Z</time>
+<cmt>Turn slight right onto Dial Green Lane</cmt>
+<desc>Turn slight right onto Dial Green Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.036189" lon="-0.666374">
+<ele>57</ele>
+<name>Keep left </name>
+<time>2018-03-09T00:58:39Z</time>
+<cmt>Keep left onto The Green</cmt>
+<desc>Keep left onto The Green</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.036203" lon="-0.664542">
+<ele>53</ele>
+<name>Turn right</name>
+<time>2018-03-09T00:59:02Z</time>
+<cmt>Turn right onto The Green</cmt>
+<desc>Turn right onto The Green</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.036749" lon="-0.664318">
+<ele>54</ele>
+<name>Keep right</name>
+<time>2018-03-09T00:59:14Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.037461" lon="-0.661704">
+<ele>52</ele>
+<name>Turn left </name>
+<time>2018-03-09T00:59:54Z</time>
+<cmt>Turn left onto Blind Lane</cmt>
+<desc>Turn left onto Blind Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.040066" lon="-0.655301">
+<ele>66</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:01:36Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.043387" lon="-0.640897">
+<ele>60</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:04:55Z</time>
+<cmt>Turn left onto A283</cmt>
+<desc>Turn left onto A283</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.043982" lon="-0.641215">
+<ele>59</ele>
+<name>Turn right</name>
+<time>2018-03-09T01:05:08Z</time>
+<cmt>Turn right</cmt>
+<desc>Turn right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.049847" lon="-0.631658">
+<ele>57</ele>
+<name>Turn left</name>
+<time>2018-03-09T01:08:13Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.053693" lon="-0.628656">
+<ele>62</ele>
+<name>Turn left</name>
+<time>2018-03-09T01:09:41Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.056087" lon="-0.629855">
+<ele>60</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T01:10:32Z</time>
+<cmt>Turn sharp right onto Pipers Lane</cmt>
+<desc>Turn sharp right onto Pipers Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.056146" lon="-0.629712">
+<ele>60</ele>
+<name>Turn left</name>
+<time>2018-03-09T01:10:34Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.062175" lon="-0.63432">
+<ele>83</ele>
+<name>Turn right</name>
+<time>2018-03-09T01:12:51Z</time>
+<cmt>Turn right</cmt>
+<desc>Turn right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.077819" lon="-0.622841">
+<ele>64</ele>
+<name>Turn left</name>
+<time>2018-03-09T01:19:17Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.077819" lon="-0.622841">
+<ele>64</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T01:19:19Z</time>
+<cmt>Turn sharp left</cmt>
+<desc>Turn sharp left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.078969" lon="-0.623347">
+<ele>67</ele>
+<name>Turn left</name>
+<time>2018-03-09T01:19:44Z</time>
+<cmt>Turn left</cmt>
+<desc>Turn left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.080225" lon="-0.6237">
+<ele>68</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:20:10Z</time>
+<cmt>Keep right onto Plaistow Road</cmt>
+<desc>Keep right onto Plaistow Road</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.084591" lon="-0.621296">
+<ele>77</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:21:59Z</time>
+<cmt>Keep right onto Plaistow Road</cmt>
+<desc>Keep right onto Plaistow Road</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.090904" lon="-0.617986">
+<ele>60</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:24:18Z</time>
+<cmt>Turn left onto Fisher Lane</cmt>
+<desc>Turn left onto Fisher Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.088291" lon="-0.599072">
+<ele>61</ele>
+<name>Turn right</name>
+<time>2018-03-09T01:28:43Z</time>
+<cmt>Turn right</cmt>
+<desc>Turn right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.090099" lon="-0.598335">
+<ele>62</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T01:29:22Z</time>
+<cmt>Turn slight left</cmt>
+<desc>Turn slight left</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.094749" lon="-0.601441">
+<ele>58</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:31:24Z</time>
+<cmt>Keep right</cmt>
+<desc>Keep right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.097533" lon="-0.598169">
+<ele>61</ele>
+<name>Turn right</name>
+<time>2018-03-09T01:32:35Z</time>
+<cmt>Turn right</cmt>
+<desc>Turn right</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.104404" lon="-0.603867">
+<ele>63</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:35:39Z</time>
+<cmt>Turn left onto High Street Green</cmt>
+<desc>Turn left onto High Street Green</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.110613" lon="-0.593981">
+<ele>64</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:38:39Z</time>
+<cmt>Turn left onto White Beech Lane</cmt>
+<desc>Turn left onto White Beech Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.115103" lon="-0.598117">
+<ele>61</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:40:34Z</time>
+<cmt>Keep right onto White Beech Lane</cmt>
+<desc>Keep right onto White Beech Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.115407" lon="-0.598987">
+<ele>60</ele>
+<name>Keep right</name>
+<time>2018-03-09T01:40:47Z</time>
+<cmt>Keep right onto White Beech Lane</cmt>
+<desc>Keep right onto White Beech Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.118918" lon="-0.601623">
+<ele>56</ele>
+<name>Turn right</name>
+<time>2018-03-09T01:42:06Z</time>
+<cmt>Turn right onto Vann Lane</cmt>
+<desc>Turn right onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.12078" lon="-0.599738">
+<ele>48</ele>
+<name>Keep left </name>
+<time>2018-03-09T01:42:50Z</time>
+<cmt>Keep left onto Vann Lane</cmt>
+<desc>Keep left onto Vann Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.140179" lon="-0.603032">
+<ele>134</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T01:50:03Z</time>
+<cmt>Turn sharp left onto Greensand Way - BW185</cmt>
+<desc>Turn sharp left onto Greensand Way - BW185</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.141762" lon="-0.614005">
+<ele>126</ele>
+<name>Turn sligh</name>
+<time>2018-03-09T01:52:36Z</time>
+<cmt>Turn slight left onto Church Lane</cmt>
+<desc>Turn slight left onto Church Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.141812" lon="-0.615094">
+<ele>121</ele>
+<name>Turn sharp</name>
+<time>2018-03-09T01:52:55Z</time>
+<cmt>Turn sharp right onto FP186A</cmt>
+<desc>Turn sharp right onto FP186A</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.1415" lon="-0.616338">
+<ele>113</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:53:12Z</time>
+<cmt>Turn left onto Church Lane</cmt>
+<desc>Turn left onto Church Lane</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="51.141254" lon="-0.618653">
+<ele>108</ele>
+<name>Turn left </name>
+<time>2018-03-09T01:53:43Z</time>
+<cmt>Turn left onto Hambledon Road</cmt>
+<desc>Turn left onto Hambledon Road</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>
