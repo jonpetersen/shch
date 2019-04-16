@@ -29,25 +29,25 @@ pricing:
         - A coffee break (not included)
         - Lunch at The Merry Harriers (included)
       plan: Morning Tour
-      price: '70'
+      price: '80'
     - description: Leaves the pub at 4pm returning at 7:30pm
       items:
         - 3.5 hours (around 25 miles) of mostly off-road cycling
         - A pub or tea shop stop (not included)
       plan: Evening Tour
-      price: '50'
+      price: '60'
     - description: Starts at 11am returning at 3:30pm
       items:
         - 4.5 hours (around 25 miles) of mostly off-road cycling
         - A luxury picnic (included)
       plan: Picnic Tour
-      price: '70'
+      price: '80'
     - description: Leaves the pub at 6.30pm returning at 8:00pm
       items:
         - 1.5 hours (around 8 miles) of mostly off-road cycling
         - Every Thursday evening from 3rd week in April to the last week in August (or by arrangement)
       plan: Short Tour
-      price: '30'
+      price: '35'
 blurb2:
     heading: Custom Tours / Corporate Events
     text: "If you are a group of at least 4 we can tailor the tour to your wishes in terms of timings and where we visit. For example we can take in a local winery or brewery tour, tour historic Petworth or visit a gallery/pottery. We can also put together a bike activity for your corporate event."
