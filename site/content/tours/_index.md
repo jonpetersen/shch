@@ -40,7 +40,7 @@ pricing:
       items:
         - Guided e-bike ride, 1.5 hours (around 8 miles) of mostly off-road cycling
         - Every Thursday evening from the 3rd week in April to the last week in August (or by arrangement)
-      plan: Short Tour
+      plan: Short Evening Tour
       price: '40'
 blurb2:
     heading: Custom Tours / Corporate Events
