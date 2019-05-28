@@ -21,7 +21,7 @@ pricing:
   anchor: tourprices
   heading: The Tours
   description: >-
-    We offer a number of different electric bike tours. Our Morning and Evening and Short tours start and finish at The Merry Harriers pub. The Picnic tours can start and finish anywhere in the local vicinity (for example at Witley train station, at Hambledon Village Shop or at your Hotel/B&B). All prices are per person. Bookings are essential for all tours.
+    We offer a number of different electric bike tours. Our Morning, Evening and Evening Short tours start and finish at The Merry Harriers pub. All prices are per person. Bookings are essential for all tours.
   plans:
     - description: Leaves the pub at 10am returning at 1.30pm for a pub lunch
       items:
