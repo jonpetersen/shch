@@ -14,7 +14,7 @@ route2:
   anchor: route2
   heading: Route 2 (off road) - Blackdown via Chiddingfold, Shillinglee and Upper Vann (3 1/2 to 4 hours)
   description: >
-    This route of around 22 miles (35km) starts by leaving Hambledon on a back road to Chiddingfold where you can get used to your bike. Then heads up Blackdown for some of the best views in the South of England, before heading down to the quintessential English village of Lurgashall and the Noah's Ark pub. From there we'll head north through woodland through Shillinglee. Finally we'll climb up to the hidden hamlet of Upper Vann to return to Hambledon. Around 70% of the route is off-road and the total ascent is 611m.
+    This route of around 22 miles (35km) starts by leaving Hambledon on a back road to Chiddingfold where you can get used to your bike. Then heads up Blackdown for some of the best views in the South of England, before heading down to the quintessential English village of Lurgashall and the **[Noah's Ark pub](https://www.noahsarkinn.co.uk)**. From there we'll head north through woodland through Shillinglee. Finally we'll climb up to the hidden hamlet of Upper Vann to return to Hambledon. Around 70% of the route is off-road and the total ascent is 611m.
 route3:
   anchor: route3
   heading: Route 3 (off road) - Devil's Punchbowl via Witley, Thursley and Hankley Commons, Chiddingfold, Dunsfold and Upper Vann (4 to 5 hours)
@@ -37,7 +37,12 @@ route6:
     This route of around 19 miles (31km) tries to avoid the worst of the mud and is relatively flat, so is a good option if it's been wet. It starts by across to Dunsfold on a farm track, then heads south east through Sidney Wood before taking the Wey South path and the Wey and Arun canal path to Loxwood and **[The Onslow Arms](http://onslowarmsloxwood.com)**. The return route takes you through Hog Wood and Tugley Wood before returning to Hambledon. Around 60% of the route is off-road and the total ascent is 310m. **[You can download a more detailed description here.](/routes/pdf/route6.pdf)**
 route7:
   anchor: route7
-  heading: Route 7 (on road) - Box Hill via Coldharbour, Leith Hill (4 1/2 to 5 hours)
+  heading: Route 7 (off road) - Devil's Punchbowl Out & Back from Hambledon (3 to 4 hours)
+  description: >
+    This route of around 20 miles (32km) starts by using quiet roads to get to the Devil's Punchbowl. At the Punchbowl it follows three long climbs, each followed by a long descent, it's a tough ride with some technical trails (including **[Bomb Holes and Tumtetum](https://www.trailforks.com/region/haslemere/map/?activitytype=1&z=13.6&lat=51.12219&lon=-0.72581)**). The route back goes via the **[Three Horseshoes pub](http://threehorseshoesthursley.com)** in Thursley and the Witley Common. Around 80% of the route is off-road and the total ascent is 607m.
+route8:
+  anchor: route8
+  heading: Route 8 (on road) - Box Hill via Coldharbour, Leith Hill (4 1/2 to 5 hours)
   description: >
     This route of around 57 miles (92km) heads from Hambledon to Bramley, over to Ranmore Common, then takes in the iconic Surrey Hills climbs of Box Hill, Coldharbour and Leith Hill before heading back to Hambledon via Dunsfold. The total ascent is 1400m.
 peaslake_leithhill:
