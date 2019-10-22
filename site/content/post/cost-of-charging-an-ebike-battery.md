@@ -1,5 +1,5 @@
 ---
-headertitle: "Electric Bike Hire and Electric Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "How much does it cost to charge an Electric Mountain Bike?"
 title: How much does it cost to charge an Electric Mountain Bike?
 date: 2018-03-23T14:04:10.000Z
 description: >-
