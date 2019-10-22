@@ -100,6 +100,10 @@
 </div>
 <!-- End FB customer chat code -->
 
+{{ if .Site.Params.googlefonts }}
+  <link rel="stylesheet" href="{{ .Site.Params.googlefonts }}" type="text/css" media="all" /> 
+{{ end }}
+
 
 {{ if ne (printf "%v" $.Site.BaseURL) "http://localhost:3000/" }}
   <!-- BEGIN JIVOSITE CODE {literal} -->
