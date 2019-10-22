@@ -1,6 +1,7 @@
 ---
-headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. Hire racing bikes, mountain bikes, hybrids and electric bikes. Electric Bikes Guildford. Rental bikes near Guildford."
+headertitle: "Bike Hire in the Surrey Hills. Road bikes, mountain bikes and electric mountain bikes available"
 title: Bike Hire
+description: "Rent a bike and explore the beautiful Surrey Hills off-road or on-road. Less than an hour away from London by car or train."
 image: /img/photos/hydons_ball_path.jpg
 intro:
   heading: Our Hire Bikes
