@@ -1,6 +1,7 @@
 ---
-headertitle: "Corporate Bike Tours and Bike Treasure Hunts in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "Corporate Bike Tours and team building events in the beautiful Surrey Hills"
 title: Corporate Bike Tours
+description: "Let us put together a great off-road cycling event for your team. Less than an hour away from London."
 image: /img/photos/group3.png
 heading: What we offer
 intro:
