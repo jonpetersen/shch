@@ -1,6 +1,7 @@
 ---
-headertitle: "Bicycle Hire, Electric Bike Tours and Cycling based Corporate Events in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "Bicycle Hire, Electric Bike Tours and Cycling based Corporate Events in the Surrey Hills"
 title: "Surrey Hills Cycle Hire"
+description: "Contact us about bike hire, guided bike tours and cycling based corporate events in the Surrey Hills. Less than an hour away from London."
 image: /img/photos/map.jpg
 logo: "/img/shch_logo_text.svg"
 contact_entries:
