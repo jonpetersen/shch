@@ -1,5 +1,5 @@
 ---
-headertitle: "Cycle Routes and Cycle Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "New off-road Surrey Hills MTB route added"
 title: New Route Added - Route 6 Dunsfold, Sidney Wood, Wey South Path, Loxwood
 date: 2018-04-09T11:04:10.000Z
 description: >-
