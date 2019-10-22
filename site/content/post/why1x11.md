@@ -1,5 +1,5 @@
 ---
-headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "Why our rental mountain bikes are 1x11"
 title: Why 1x11 Mountain Bikes?
 date: 2018-03-21T15:04:10.000Z
 description: >-
