@@ -1,7 +1,7 @@
 ---
-headertitle: Cycle Hire and Cycle Tours in Surrey, The South Downs, Surrey Hills,
-  West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. Mountain bike rentals. Bike rentals Guildford.
+headertitle: Cycle Hire and Cycle Tours in the Surrey Hills
 title: FAQ's
+description: "Frequently asked questions about our bike hire and bike tours."
 image: "/img/photos/rape_field.jpg"
 head1:
   text: FAQ'S ABOUT BIKE HIRE
