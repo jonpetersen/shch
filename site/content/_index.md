@@ -1,7 +1,8 @@
 ---
-headertitle: "Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. Bike Hire for Corporate Events. Cycle Surrey Hills. Mountain Bike Hire near London. Mountain Bike Hire near Peaslake and Leith Hill. Surrey Bike Rental. Electric Bike Rental."
+headertitle: "Bike Hire and Bike Tours in the Surrey Hills"
 title: "Surrey Hills Cycle Hire"
 subtitle: Cycle Tours and Cycle Hire in the beautiful Surrey Hills
+description: "Rent a bike and explore the beautiful Surrey Hills or go on one of our guided tours on an e-bike. Less than an hour away from London."
 image: /img/photos/llama_field.jpg
 
 # lead: 
