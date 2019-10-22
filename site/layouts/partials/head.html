@@ -1,6 +1,6 @@
 <head>
     {{ if .Params.headertitle }}
-	<title>{{ .Params.headertitle }} | Electric mountain bikes, road bikes, hybrids and mountain bikes for hire.</title>
+	<title>{{ .Params.headertitle }} | Electric mountain bikes, road bikes and mountain bikes for hire.</title>
 	{{ else }}
     <title>Bike Hire and Bike Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth. | Electric mountain bikes, road bikes, hybrids and mountain bikes for hire 55 minutes from London and 20 minutes from Guildford.</title>
 	{{ end }}
@@ -9,7 +9,9 @@
 	{{ if .IsPage }}
     <meta name="description" content="{{ .Summary }}" />
     {{ else }}
-	<meta name="description" content="Hire a bike or go on an electric bike tour in the Surrey Hills. Electric Mountain bikes, mountain bikes, road bikes and hybrid bikes all available. Convenient to South West Surrey, West Sussex, Guildford, Godalming, Farnham & Petworth."/>
+    <meta name="description" content="{{ .Params.description }}" />
+
+<!-- 	<meta name="description" content="Hire a bike or go on an electric bike tour in the Surrey Hills. Electric Mountain bikes, mountain bikes, road bikes available. Convenient to South West Surrey, West Sussex, Guildford, Godalming, Farnham & Petworth."/> -->
     {{ end }}
 
 	<meta charset="utf-8">
