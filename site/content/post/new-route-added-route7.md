@@ -1,5 +1,5 @@
 ---
-headertitle: "Cycle Routes and Cycle Tours in Surrey, South Downs, Surrey Hills, West Sussex, Guildford, Haslemere, Farnham, Godalming, Chiddingfold and Petworth."
+headertitle: "New on-road Surrey Hills MTB route added, Box Hill loop"
 title: New Route Added - Route 7 (on road) - Box Hill, Coldharbour, Leith Hill - 92km 1400m of climbing
 date: 2018-06-12T11:04:10.000Z
 description: >-
