@@ -8,7 +8,7 @@ contact_entries:
   - heading: Location
     text: "Hambledon Village Shop, The Cricket Green, Hambledon, Surrey GU8 4HF"
   - heading: Our Season
-    text: "Hire bikes are available all year round. Guided tours run from Sunday 31st March 2019 to Sunday 27th October 2019"
+    text: "Hire bikes and guided tours are available all year round."
 ---
 <h3 class="f4 b lh-title mb2">Getting to Hambledon</h3>
 
