@@ -26,20 +26,20 @@ pricing:
   plans:
     - description: Leaves the pub at 10am returning at 1.30pm for a pub lunch
       items:
-        - Guided e-bike ride, 3.5 hours (around 25 miles) of mostly off-road cycling
+        - Guided e-bike ride, 3 1/2 hours (around 25 miles) of mostly off-road cycling
         - A coffee break (not included)
         - Lunch at The Merry Harriers (included)
       plan: Morning Tour
       price: '85'
     - description: Leaves the pub at 4pm returning at 7:30pm
       items:
-        - Guided e-bike ride, 3.5 hours (around 25 miles) of mostly off-road cycling
+        - Guided e-bike ride, 3 1/2 hours (around 25 miles) of mostly off-road cycling
         - A pub or tea shop stop (not included)
       plan: Evening Tour (Summer only)
       price: '65'
     - description: Leaves the pub at 6.30pm returning at 8:00pm
       items:
-        - Guided e-bike ride, 1.5 hours (around 8 miles) of mostly off-road cycling
+        - Guided e-bike ride, 1 1/2 hours (around 8 miles) of mostly off-road cycling
         - Every Thursday evening from the 3rd week in April to the last week in August (or by arrangement)
       plan: Short Evening Tour
       price: '40'
