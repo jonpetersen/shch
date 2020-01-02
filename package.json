@@ -38,7 +38,6 @@
     "postcss-loader": "^0.9.1",
     "postcss-uncss": "^0.14.0",
     "react": "^16.8.6",
-    "slate": "^0.47.4",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.0.0",
@@ -46,7 +45,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.7.7",
-    "@babel/core": "^7.6.4",
+    "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/plugin-transform-runtime": "^7.6.2",
     "@babel/preset-env": "^7.6.3",
@@ -58,6 +57,8 @@
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "immutable": "^4.0.0-rc.12",
+    "slate": "^0.47.9",
     "svg-sprite-loader": "^0.1.2"
   }
 }
