@@ -35,7 +35,7 @@ pricing:
       items:
         - Guided e-bike ride, 3.5 hours (around 25 miles) of mostly off-road cycling
         - A pub or tea shop stop (not included)
-      plan: Evening Tour
+      plan: Evening Tour (Summer only)
       price: '65'
     - description: Leaves the pub at 6.30pm returning at 8:00pm
       items:
