@@ -58,5 +58,6 @@
     "immutable": "^4.0.0-rc.12",
     "slate": "^0.47.9",
     "svg-sprite-loader": "^0.1.2"
-  }
+  },
+  "resolutions": { "babel-core": "^7.0.0-bridge" }
 }
