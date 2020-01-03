@@ -1,6 +1,9 @@
 <head>
-    <link rel="stylesheet" href="/css/main.css" />
-
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    
+    
+    
     {{ if .Params.headertitle }}
 	<title>{{ .Params.headertitle }} | Electric mountain bikes, road bikes and mountain bikes for hire.</title>
 	{{ else }}
