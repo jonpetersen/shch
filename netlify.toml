@@ -6,3 +6,9 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
+
+[[redirects]]
+  from = "/giftcards/*"
+  to = "https://squareup.com/gift/DDKHCR6JQ7FHX/order"
+  status = 200
+  force = true
