@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
+{{ partial "table-hire" .Params.pricing }}
 {{ partial "4-up" .Params.intro }}
 
 {{ with .Params.main }}
@@ -19,8 +19,6 @@
 <!-- Image grid -->
 <!-- {{ partial "image-grid" . }} -->
 {{ end }}
-
-{{ partial "table-hire" .Params.pricing }}
 
 <div class="tc">
   <a href="/contact/#contact_form" class="btn raise">Contact Us About Bike Hire</a>
