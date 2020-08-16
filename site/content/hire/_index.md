@@ -6,7 +6,7 @@ image: /img/photos/hydons_ball_path.jpg
 intro:
   heading: Our Hire Bikes
   description: >
-    All our rental bikes are less than a year old and are maintained to the highest
+    All our rental bikes are less than three years old and are maintained to the highest
     standards. We have mountain, road bikes and electric mountain bikes for hire.
   blurbs:
     - image: /img/134111_light.jpg
@@ -15,7 +15,7 @@ intro:
         Bosch CX electric engines. **[Read more about the Cube Reaction Hybrid](https://www.cube.eu/uk/2018/e-bikes/mountain/hardtail/reaction/cube-reaction-hybrid-pro-500-iridiumngreen-2018/)**. Hiring an electric bike for a couple of hours is a great way to try one out if you're thinking of buying one.
     - image: /img/bizango.jpeg
       text: |
-        Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won Mountain Bike Rider's Hardtail of the Year award.
+        Our Mountain Bikes are Voodoo Bizango 29er's With a Sram 1 x 11 drivetrain, hydraulic disc brakes and front suspension. This bike won **[Mountain Bike Rider's Hardtail of the Year award](https://www.mbr.co.uk/reviews/hardtail/voodoo-bizango)**.
     - image: /img/triban540.jpg
       text: Our Road Bikes (racing bikes) are the Triban 540. An alloy frame combined with a carbon fork, quality Shimano 105 groupset and Mavic Aksium wheels. This bike was **[Cycling Weekly's Editor's Choice Road Bike](http://www.cyclingweekly.com/editors-choice/btwin-triban-540-2-358136)** in 2017.
 main:
