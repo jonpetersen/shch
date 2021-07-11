@@ -7,7 +7,7 @@ intro:
   heading: Our Hire Bikes
   description: >
     All our rental bikes are less than three years old and are maintained to the highest
-    standards. We have mountain, road bikes and electric mountain bikes for hire.
+    standards. We have mountain, road bikes and electric mountain bikes for hire. Please note, we do not allow electric bikes to be transported away from our base in Hambledon.
   blurbs:
     - image: /img/134111_light.jpg
       text: >
@@ -24,10 +24,10 @@ main:
     We have two touring bikes and a folding bike that are available for rental as well as various cycle touring equipment (panniers etc). Contact us for more information.
   heading_b: Kids bikes and Equipment
   description_b: >
-    We can provide kids bikes and trailers but require at least 7 days notice.
+    We can provide a kids trailer but do not have bikes suitable for heights under 5'0" (152cm).
   heading_c: Everything you need
   description_c: >
-    We'll provide you with everything you need on your ride. A helmet, a lock, a filled water bottle, route maps and a number to call just in case.
+    We'll provide you with everything you need on your ride. A helmet, a lock, route maps and a number to call just in case.
 pricing:
   anchor: hireprices
   heading: Hiring Rates
